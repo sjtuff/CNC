@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contents>
+  <Content Name="pos_tool_ControllerTreeControl">
+    <PositionSettings IsDocked="true" AnchorStyle="Left" SizeToContent="Manual" ResizeMode="CanResize" Left="0" Top="0" Width="0" Height="0" DockWidth="300" DockHeight="300" />
+  </Content>
+  <Content Name="tool_ControllerTreeControl">
+    <Tool>
+      <UIState>
+        <Element Name="__tviItems" IsExpanded="True" />
+        <Element Name="__tviTempItems" IsExpanded="False" />
+        <Element Name="__tviAxes" IsExpanded="False" />
+        <Element Name="__tviMemory" IsExpanded="False" />
+        <Element Name="__tviModules" IsExpanded="False" />
+        <Element Name="__tviConfig" IsExpanded="False" />
+        <Element Name="__tviEnabledFeatures" IsExpanded="False" />
+        <Element Name="__tviCommunications" IsExpanded="False" />
+        <Element Name="__tviDebugInfo" IsExpanded="False" />
+      </UIState>
+    </Tool>
+  </Content>
+  <Content Name="pos_tool_OutputWindow">
+    <PositionSettings IsDocked="true" AnchorStyle="Bottom" SizeToContent="Manual" ResizeMode="CanResize" Left="NaN" Top="NaN" Width="300" Height="300" DockWidth="300" DockHeight="300" />
+  </Content>
+  <Content Name="pos_tool_TableViewerControl">
+    <PositionSettings IsDocked="false" AnchorStyle="Right" SizeToContent="Manual" ResizeMode="CanResize" Left="NaN" Top="NaN" Width="200" Height="600" DockWidth="300" DockHeight="300" />
+  </Content>
+  <Content Name="tool_TableViewerControl">
+    <Tool DisplayAs="0" />
+  </Content>
+  <Content Name="pos_tool_TerminalControl_0">
+    <PositionSettings IsDocked="true" AnchorStyle="Right" SizeToContent="Manual" ResizeMode="CanResize" Left="NaN" Top="NaN" Width="300" Height="300" DockWidth="300" DockHeight="300" />
+  </Content>
+  <Content Name="pos_tool_WatchVariablesControl">
+    <PositionSettings IsDocked="false" AnchorStyle="Right" SizeToContent="Manual" ResizeMode="CanResize" Left="NaN" Top="NaN" Width="220" Height="200" DockWidth="300" DockHeight="300" />
+  </Content>
+  <Content Name="tool_WatchVariablesControl">
+    <Tool DisplayAs="0" />
+  </Content>
+  <Content Name="ToolBarSettings_basic">
+    <Content>
+      <ToolBarDebug Band="0" BandIndex="1" />
+      <ToolBarEdit Band="0" BandIndex="0" />
+    </Content>
+  </Content>
+  <Content Name="ToolBarSettings_textFile" />
+  <Content Name="Document_MC_CONFIG_MC_CONFIG">
+    <Document Title="(All)" />
+  </Content>
+</Contents>

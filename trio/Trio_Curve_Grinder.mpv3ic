@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contents>
+  <Content Name="tool_ControllerTreeControl">
+    <Tool IsPeriodicUpdateEnabled="true" />
+  </Content>
+  <Content Name="ToolBarSettings_basic">
+    <Content>
+      <ToolBarDebug Band="0" BandIndex="1" />
+      <ToolBarEdit Band="0" BandIndex="0" />
+    </Content>
+  </Content>
+  <Content Name="ToolBarSettings_textFile">
+    <Content>
+      <ToolBarDebug Band="0" BandIndex="1" />
+      <ToolBarEdit Band="0" BandIndex="0" />
+    </Content>
+  </Content>
+  <Content Name="tool_WatchVariablesControl">
+    <Tool IsPeriodicUpdateEnabled="true">
+      <Variables>
+        <Variable DisplayName="a" ParamName="a" Context="TEST" />
+        <Variable DisplayName="d" ParamName="d" Context="THREAD_ENCODE,15" />
+      </Variables>
+    </Tool>
+  </Content>
+  <Content Name="tool_ControllerDirectoryControl">
+    <Tool IsPeriodicUpdateEnabled="true" />
+  </Content>
+  <Content Name="tool_TableViewerControl">
+    <Tool IsPeriodicUpdateEnabled="true">
+      <Ranges>
+        <Range StartAddress="0" EndAddress="10" IsExpanded="false" />
+        <Range StartAddress="40" EndAddress="50" IsExpanded="false" />
+        <Range StartAddress="50" EndAddress="60" IsExpanded="false" />
+        <Range StartAddress="90" EndAddress="100" IsExpanded="false" />
+        <Range StartAddress="11000" EndAddress="11100" IsExpanded="false" />
+        <Range StartAddress="13000" EndAddress="14000" IsExpanded="false" />
+        <Range StartAddress="14000" EndAddress="14100" IsExpanded="false" />
+        <Range StartAddress="15000" EndAddress="15100" IsExpanded="false" />
+        <Range StartAddress="18000" EndAddress="18100" IsExpanded="false" />
+        <Range StartAddress="19000" EndAddress="19100" IsExpanded="false" />
+        <Range StartAddress="20000" EndAddress="21000" IsExpanded="false" />
+        <Range StartAddress="21000" EndAddress="22000" IsExpanded="false" />
+        <Range StartAddress="22000" EndAddress="23000" IsExpanded="true" />
+        <Range StartAddress="23000" EndAddress="24000" IsExpanded="false" />
+        <Range StartAddress="24000" EndAddress="25000" IsExpanded="false" />
+        <Range StartAddress="31000" EndAddress="32000" IsExpanded="false" />
+        <Range StartAddress="33000" EndAddress="34000" IsExpanded="false" />
+      </Ranges>
+    </Tool>
+  </Content>
+  <Content Name="TableRangeEditDlgSettings">
+    <RecentRanges_TABLE>
+      <Range StartAddress="0" EndAddress="0" />
+      <Range StartAddress="0" EndAddress="100" />
+      <Range StartAddress="11000" EndAddress="11100" />
+      <Range StartAddress="15000" EndAddress="15100" />
+      <Range StartAddress="14000" EndAddress="14100" />
+      <Range StartAddress="10000" EndAddress="10100" />
+      <Range StartAddress="200" EndAddress="300" />
+      <Range StartAddress="9000" EndAddress="9100" />
+      <Range StartAddress="0" EndAddress="160" />
+      <Range StartAddress="18000" EndAddress="18100" />
+      <Range StartAddress="19000" EndAddress="19100" />
+      <Range StartAddress="23000" EndAddress="24000" />
+      <Range StartAddress="13000" EndAddress="14000" />
+      <Range StartAddress="31000" EndAddress="32000" />
+      <Range StartAddress="33000" EndAddress="34000" />
+      <Range StartAddress="0" EndAddress="10" />
+      <Range StartAddress="30" EndAddress="40" />
+      <Range StartAddress="24000" EndAddress="25000" />
+      <Range StartAddress="20000" EndAddress="21000" />
+      <Range StartAddress="21000" EndAddress="22000" />
+      <Range StartAddress="22000" EndAddress="23000" />
+      <Range StartAddress="90" EndAddress="100" />
+      <Range StartAddress="50" EndAddress="60" />
+      <Range StartAddress="40" EndAddress="50" />
+    </RecentRanges_TABLE>
+    <RecentRanges_VR>
+      <Range StartAddress="300000" EndAddress="300100" />
+      <Range StartAddress="200000" EndAddress="200100" />
+      <Range StartAddress="31000" EndAddress="31100" />
+      <Range StartAddress="200000" EndAddress="200200" />
+      <Range StartAddress="11000" EndAddress="11100" />
+      <Range StartAddress="13000" EndAddress="13100" />
+      <Range StartAddress="111000" EndAddress="111000" />
+      <Range StartAddress="111000" EndAddress="111100" />
+      <Range StartAddress="113000" EndAddress="113100" />
+      <Range StartAddress="33000" EndAddress="33100" />
+      <Range StartAddress="30000" EndAddress="30100" />
+      <Range StartAddress="110000" EndAddress="110100" />
+      <Range StartAddress="10000" EndAddress="10100" />
+      <Range StartAddress="130000" EndAddress="130100" />
+      <Range StartAddress="131000" EndAddress="131100" />
+      <Range StartAddress="133000" EndAddress="133100" />
+      <Range StartAddress="34000" EndAddress="34100" />
+      <Range StartAddress="35000" EndAddress="35100" />
+      <Range StartAddress="134000" EndAddress="134100" />
+      <Range StartAddress="0" EndAddress="100" />
+      <Range StartAddress="16000" EndAddress="16100" />
+      <Range StartAddress="17000" EndAddress="17100" />
+      <Range StartAddress="18000" EndAddress="18100" />
+      <Range StartAddress="38000" EndAddress="38100" />
+      <Range StartAddress="138000" EndAddress="138100" />
+      <Range StartAddress="39000" EndAddress="39100" />
+      <Range StartAddress="139000" EndAddress="139100" />
+      <Range StartAddress="200000" EndAddress="200250" />
+      <Range StartAddress="200000" EndAddress="200500" />
+      <Range StartAddress="14000" EndAddress="15000" />
+      <Range StartAddress="31000" EndAddress="31020" />
+      <Range StartAddress="33000" EndAddress="33020" />
+      <Range StartAddress="37000" EndAddress="38000" />
+      <Range StartAddress="40000" EndAddress="41000" />
+      <Range StartAddress="15000" EndAddress="16000" />
+      <Range StartAddress="21000" EndAddress="22000" />
+      <Range StartAddress="22000" EndAddress="23000" />
+      <Range StartAddress="24000" EndAddress="25000" />
+      <Range StartAddress="25000" EndAddress="26000" />
+    </RecentRanges_VR>
+  </Content>
+  <Content Name="tool_VRViewerControl">
+    <Tool IsPeriodicUpdateEnabled="true">
+      <Ranges>
+        <Range StartAddress="0" EndAddress="100" IsExpanded="false" />
+        <Range StartAddress="10000" EndAddress="10100" IsExpanded="false" />
+        <Range StartAddress="11000" EndAddress="11100" IsExpanded="false" />
+        <Range StartAddress="13000" EndAddress="13100" IsExpanded="false" />
+        <Range StartAddress="14000" EndAddress="15000" IsExpanded="false" />
+        <Range StartAddress="15000" EndAddress="16000" IsExpanded="false" />
+        <Range StartAddress="16000" EndAddress="16100" IsExpanded="false" />
+        <Range StartAddress="17000" EndAddress="17100" IsExpanded="false" />
+        <Range StartAddress="18000" EndAddress="18100" IsExpanded="false" />
+        <Range StartAddress="21000" EndAddress="22000" IsExpanded="false" />
+        <Range StartAddress="22000" EndAddress="23000" IsExpanded="false" />
+        <Range StartAddress="24000" EndAddress="25000" IsExpanded="false" />
+        <Range StartAddress="25000" EndAddress="26000" IsExpanded="false" />
+        <Range StartAddress="30000" EndAddress="30100" IsExpanded="false" />
+        <Range StartAddress="31000" EndAddress="31020" IsExpanded="false" />
+        <Range StartAddress="33000" EndAddress="33020" IsExpanded="false" />
+        <Range StartAddress="34000" EndAddress="34100" IsExpanded="false" />
+        <Range StartAddress="35000" EndAddress="35100" IsExpanded="false" />
+        <Range StartAddress="37000" EndAddress="38000" IsExpanded="false" />
+        <Range StartAddress="38000" EndAddress="38100" IsExpanded="false" />
+        <Range StartAddress="39000" EndAddress="39100" IsExpanded="false" />
+        <Range StartAddress="40000" EndAddress="41000" IsExpanded="false" />
+        <Range StartAddress="110000" EndAddress="110100" IsExpanded="false" />
+        <Range StartAddress="111000" EndAddress="111100" IsExpanded="false" />
+        <Range StartAddress="113000" EndAddress="113100" IsExpanded="false" />
+        <Range StartAddress="130000" EndAddress="130100" IsExpanded="false" />
+        <Range StartAddress="131000" EndAddress="131100" IsExpanded="false" />
+        <Range StartAddress="133000" EndAddress="133100" IsExpanded="false" />
+        <Range StartAddress="134000" EndAddress="134100" IsExpanded="false" />
+        <Range StartAddress="138000" EndAddress="138100" IsExpanded="false" />
+        <Range StartAddress="139000" EndAddress="139100" IsExpanded="false" />
+        <Range StartAddress="200000" EndAddress="200500" IsExpanded="true" />
+      </Ranges>
+    </Tool>
+  </Content>
+  <Content Name="Document_MC_CONFIG_MC_CONFIG">
+    <Document Title="（全部）" />
+  </Content>
+  <Content Name="tool_FindReplaceWindow">
+    <Tool MainMode="QuickFind">
+      <Options MatchWholeWord="true" MatchCase="false" SearchUp="false" UseRegularExpressions="false">
+        <TargetItemTypes Mode="All" />
+      </Options>
+    </Tool>
+  </Content>
+  <Content Name="tool_OscilloscopeControl">
+    <Tool>
+      <Config IsMultiTriggerMode="false" IsProgramTriggering="false" MaxChunkSize="8" TimePerDivision="20" ViewMode="XY11" DisplayTextInfo="false" IsExpanded="true" IsAutoHide="false" UseScopeDelay="false" ScopeDelay="0">
+        <ScopeTableInfo SamplesPerDivision="50" PointsPerDivision="10" FitToDisplay="false" IsAutoSamplesDataRangeStartAddress="true" SamplesDataRangeStartAddress="0" UseAutoReArm="true" Use_FIFO="false" FIFOName="MC_SCOPE_FIFO">
+          <BlockDataRanges>
+            <ScopeTableDataRange StartAddress="0" EndAddress="-1" Step="1" />
+            <ScopeTableDataRange StartAddress="0" EndAddress="-1" Step="1" />
+            <ScopeTableDataRange StartAddress="0" EndAddress="-1" Step="1" />
+            <ScopeTableDataRange StartAddress="0" EndAddress="-1" Step="1" />
+          </BlockDataRanges>
+        </ScopeTableInfo>
+      </Config>
+      <ViewerSettings>
+        <clrBackground>White</clrBackground>
+        <TraceColors Count="3" />
+        <CursorColors Count="4" />
+      </ViewerSettings>
+      <View3DSettings />
+      <Engine3D FillMode="Solid" ShowCS="true" ShowGrid="false">
+        <Camera3D Zoom="2.196009" Perspective="false" Pivot="-0.1047702,-0.0003968521,-0.003655132" Orientation="0.3131762,-0.7663991,0.2414946,0.5062073" />
+      </Engine3D>
+      <TraceInfos>
+        <TraceInfo State="Manual" ParamName="MPOS" ContextIndex="1" NullableContextIndex="1" Range="2" LockRanges="false" Offset="0" AutoCentre="true" />
+        <TraceInfo State="Manual" ParamName="MPOS" ContextIndex="2" NullableContextIndex="2" Range="2" LockRanges="false" Offset="0" AutoCentre="true" />
+        <TraceInfo State="Manual" ParamName="MPOS" ContextIndex="3" NullableContextIndex="3" Range="2" LockRanges="false" Offset="0" AutoCentre="true" />
+      </TraceInfos>
+      <CursorInfos>
+        <CursorInfo IsVisible="false" Position="4" TraceIndex="0" />
+        <CursorInfo IsVisible="false" Position="8" TraceIndex="0" />
+        <CursorInfo IsVisible="false" Position="12" TraceIndex="0" />
+        <CursorInfo IsVisible="false" Position="16" TraceIndex="0" />
+      </CursorInfos>
+      <RecentParamNames>
+        <Param Name="MPOS" Age="22" />
+        <Param Name="MSPEED" Age="142" />
+        <Param Name="MSPEEDF" Age="0" />
+      </RecentParamNames>
+    </Tool>
+  </Content>
+  <Content Name="tool_Visualization3DToolControl">
+    <Tool>
+      <ModelPath>C:\Program Files (x86)\TrioMotion\MotionPerfectV4\PlugIns\Visualization3D\Models\Scara\Scara.mprobo</ModelPath>
+      <Engine3D FillMode="Solid" ShowCS="true" ShowGrid="false">
+        <Camera3D Zoom="1" Perspective="false" Pivot="0.02954102,178.9519,186.7355" Orientation="0.2945885,0.5497819,0.705882,-0.3356904" />
+      </Engine3D>
+      <JointMaps>
+        <JointMap ModelID="C:\Program Files (x86)\TrioMotion\MotionPerfectV4\PlugIns\Visualization3D\Models\Scara\Scara.mprobo">
+          <JointToAxisMap Axis="-1" ParamName="AXIS_DPOS" Offset="0" Scale="1" JointID="j0" />
+          <JointToAxisMap Axis="-1" ParamName="AXIS_DPOS" Offset="0" Scale="1" JointID="j1" />
+          <JointToAxisMap Axis="-1" ParamName="AXIS_DPOS" Offset="0" Scale="1" JointID="j2" />
+          <JointToAxisMap Axis="-1" ParamName="AXIS_DPOS" Offset="0" Scale="1" JointID="j3" />
+        </JointMap>
+      </JointMaps>
+      <StandardJointDisplay>
+        <StandardJointDisplay ShowLabels="false" ShowHierarchy="false" ShowPointers="false" ModelID="C:\Program Files (x86)\TrioMotion\MotionPerfectV4\PlugIns\Visualization3D\Models\Scara\Scara.mprobo">
+          <LabelUIParams JointID="j0" Pinned="false" PinX="0.42207748219936714" PinY="0.32396390524662311" FloatOffsetX="8" FloatOffsetY="8" />
+          <LabelUIParams JointID="j1" Pinned="false" PinX="0.58772294056566465" PinY="0.39245251367533496" FloatOffsetX="8" FloatOffsetY="8" />
+          <LabelUIParams JointID="j2" Pinned="false" PinX="0.73302548951740509" PinY="0.43915581513126939" FloatOffsetX="8" FloatOffsetY="8" />
+          <LabelUIParams JointID="j3" Pinned="false" PinX="0.7318381007713608" PinY="0.48242073971365695" FloatOffsetX="8" FloatOffsetY="8" />
+        </StandardJointDisplay>
+      </StandardJointDisplay>
+    </Tool>
+  </Content>
+  <Content Name="ToolBarSettings_SFC" />
+  <Content Name="ToolBarSettings_SFC_Child_SFC" />
+  <Content Name="ToolBarSettings_LD" />
+  <Content Name="tool_AxisParametersControl">
+    <Tool IsPeriodicUpdateEnabled="true" DisplayAs="0">
+      <AxesInUse>
+        <Index>1</Index>
+        <Index>2</Index>
+        <Index>3</Index>
+        <Index>4</Index>
+        <Index>5</Index>
+        <Index>7</Index>
+        <Index>8</Index>
+        <Index>9</Index>
+      </AxesInUse>
+      <ParamsVisibility>
+        <Param Name="MOVES_BUFFERED" IsVisible="true" />
+      </ParamsVisibility>
+      <Groups>
+        <Group Name="Gains" IsExpanded="false" />
+        <Group Name="Limits" IsExpanded="false" />
+        <Group Name="Registration" IsExpanded="false" />
+        <Group Name="Misc" IsExpanded="false" />
+      </Groups>
+    </Tool>
+  </Content>
+  <Content Name="Document_Program_INI" />
+  <Content Name="Document_Program_THREAD_MOV" />
+  <Content Name="Document_Program_THREAD_CTRL" />
+  <Content Name="Document_Program_GLOBAL_DEFS" />
+  <Content Name="Document_Program_THREAD_ENCODE" />
+  <Content Name="Document_Program_TXT_INSTREAM" />
+  <Content Name="Document_Program_START_UP" />
+  <Content Name="Document_Program_HOMING" />
+  <Content Name="Document_Program_MONITOR_ZERO" />
+  <Content Name="tool_DigitalIOControl">
+    <Tool IsPeriodicUpdateEnabled="true">
+      <DigitalIOBanks>
+        <Visibility>
+          <Bank Index="0" IsInput="false">true</Bank>
+          <Bank Index="1" IsInput="false">true</Bank>
+          <Bank Index="2" IsInput="false">true</Bank>
+          <Bank Index="3" IsInput="false">true</Bank>
+          <Bank Index="5" IsInput="false">true</Bank>
+          <Bank Index="6" IsInput="false">true</Bank>
+        </Visibility>
+      </DigitalIOBanks>
+    </Tool>
+  </Content>
+  <Content Name="Document_Program_LOOK_AHEAD_TEST" />
+  <Content Name="Document_Program_1" />
+  <Content Name="Document_Program_TEST_COMPENSATION" />
+  <Content Name="Document_Program_COMPENSATION_THING" />
+  <Content Name="tool_JogAxesControl">
+    <Tool IsPeriodicUpdateEnabled="true" />
+  </Content>
+  <Content Name="Document_Program_MOV_00" />
+  <Content Name="Document_Program_MANUAL_MODE" />
+  <Content Name="Document_Program_MONITOR_IO" />
+  <Content Name="Document_Program_MOV_Z_AXIS" />
+  <Content Name="Document_Program_AXIS_OFFSET" />
+  <Content Name="tool_IntelligentDrivesControl">
+    <Tool IsPeriodicUpdateEnabled="true" />
+  </Content>
+  <Content Name="Document_Program_EC_EXTEND" />
+  <Content Name="Document_Program_ADDAX_TEST" />
+  <Content Name="Document_Program_TEST" />
+  <Content Name="Document_Program_T0123" />
+  <Content Name="Document_Program_T0456" />
+  <Content Name="Document_Program_T789" />
+  <Content Name="Document_Program_MAIN_AXIS" />
+</Contents>

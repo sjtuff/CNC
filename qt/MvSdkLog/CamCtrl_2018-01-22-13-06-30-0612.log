@@ -1,0 +1,32 @@
+[2018-01-22 13:06:30:0627] | CInterfaceManager.cpp-L3028: CamCtrl[2000001], GigE SDKVersion(1020001), DriverVersion(1020002)
+[2018-01-22 13:06:31:0880] |         XmlParse.cpp-L2051: GetNodeValue [ResultingFrameRate], Unknow Exception
+[2018-01-22 13:06:43:0929] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0001] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0063] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0125] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0197] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0264] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0326] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0398] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0460] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0532] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0599] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0661] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0733] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0795] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0857] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0929] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:44:0996] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:45:0068] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:45:0130] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:45:0192] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:45:0264] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:45:0326] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:45:0398] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:45:0460] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:45:0527] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:45:0599] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:45:0661] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:47:0082] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:47:0091] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:06:47:0094] | CInterfaceManager.cpp-L2846: delete one DataNode

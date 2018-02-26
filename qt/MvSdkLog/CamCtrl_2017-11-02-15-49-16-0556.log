@@ -1,0 +1,13 @@
+[2017-11-02 15:49:16:0564] | CInterfaceManager.cpp-L3028: CamCtrl[2000001], GigE SDKVersion(1020001), DriverVersion(0)
+[2017-11-02 15:49:17:0966] |         XmlParse.cpp-L2051: GetNodeValue [ResultingFrameRate], Unknow Exception
+[2017-11-02 15:49:18:0822] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2017-11-02 15:49:18:0890] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2017-11-02 15:49:18:0955] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2017-11-02 15:49:19:0023] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2017-11-02 15:49:19:0102] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2017-11-02 15:49:19:0156] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2017-11-02 15:49:19:0218] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2017-11-02 15:49:19:0285] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2017-11-02 15:49:19:0357] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2017-11-02 15:49:19:0553] | CInterfaceManager.cpp-L0645: getfcnt [3], getfcntsucceed[1], totalRecv[20] 
+[2017-11-02 15:49:19:0556] | CInterfaceManager.cpp-L2673: RecvThreadProcess exit

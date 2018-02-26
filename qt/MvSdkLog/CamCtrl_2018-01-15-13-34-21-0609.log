@@ -1,0 +1,2 @@
+[2018-01-15 13:34:21:0624] | CInterfaceManager.cpp-L3028: CamCtrl[2000001], GigE SDKVersion(1020001), DriverVersion(0)
+[2018-01-15 13:34:23:0615] |         XmlParse.cpp-L2051: GetNodeValue [ResultingFrameRate], Unknow Exception

@@ -1,0 +1,6 @@
+[2018-01-22 13:04:16:0645] | CInterfaceManager.cpp-L3028: CamCtrl[2000001], GigE SDKVersion(1020001), DriverVersion(1020002)
+[2018-01-22 13:04:17:0902] |         XmlParse.cpp-L2051: GetNodeValue [ResultingFrameRate], Unknow Exception
+[2018-01-22 13:04:33:0092] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:04:33:0095] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:04:34:0475] | CInterfaceManager.cpp-L2846: delete one DataNode
+[2018-01-22 13:04:34:0480] | CInterfaceManager.cpp-L2846: delete one DataNode

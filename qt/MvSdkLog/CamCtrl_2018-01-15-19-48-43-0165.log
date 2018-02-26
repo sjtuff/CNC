@@ -1,0 +1,2 @@
+[2018-01-15 19:48:43:0180] | CInterfaceManager.cpp-L3028: CamCtrl[2000001], GigE SDKVersion(1020001), DriverVersion(0)
+[2018-01-15 19:48:45:0194] | CInterfaceManager.cpp-L0471: close device fail![80000003]

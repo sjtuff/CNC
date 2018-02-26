@@ -1,0 +1,1432 @@
+[2017-11-02 15:49:16:0559] socket mode start!
+[2017-11-02 15:49:16:0564] disconnect device ...
+[2017-11-02 15:49:16:0564] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 15:49:16:0564] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 15:49:16:0564] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 15:49:16:0564] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 15:49:16:0566] socket mode start!
+[2017-11-02 15:49:16:0567] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 15:49:16:0567] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 15:49:16:0567] connecting device ... hostIP[c0a8010a], hostPort[56585], devIP[c0a80101]
+[2017-11-02 15:49:16:0774] detect mtu [9212]!
+[2017-11-02 15:49:17:0791] UDP_ReadnTimeout  [3016]!
+[2017-11-02 15:49:17:0795] Optimal PacketSize  [3044]!
+[2017-11-02 15:49:17:0946] gvsp recv thread start...
+[2017-11-02 15:49:19:0453] getfcnt [249], getfcntsucceed[20], totalRecv[21] 
+[2017-11-02 15:49:19:0591] getfcnt [250], getfcntsucceed[20], totalRecv[21] 
+[2017-11-02 15:49:19:0591] disconnect device ...
+[2017-11-02 15:49:19:0640] gvsp recv thread stop
+[2017-11-02 15:49:20:0308] [socket] NearBID[206], LastBID[206], output[21]
+[2017-11-02 15:49:37:0625] socket mode start!
+[2017-11-02 15:49:37:0629] disconnect device ...
+[2017-11-02 15:49:37:0629] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 15:49:37:0629] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 15:49:37:0629] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 15:49:37:0629] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 15:49:37:0631] socket mode start!
+[2017-11-02 15:49:37:0632] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 15:49:37:0632] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 15:49:37:0632] connecting device ... hostIP[c0a8010a], hostPort[65011], devIP[c0a80101]
+[2017-11-02 15:49:37:0827] detect mtu [9212]!
+[2017-11-02 15:49:38:0844] UDP_ReadnTimeout  [3016]!
+[2017-11-02 15:49:38:0847] Optimal PacketSize  [3044]!
+[2017-11-02 15:49:38:0995] gvsp recv thread start...
+[2017-11-02 15:50:18:0198] getfcnt [7219], getfcntsucceed[580], totalRecv[581] 
+[2017-11-02 15:50:18:0338] getfcnt [7220], getfcntsucceed[580], totalRecv[581] 
+[2017-11-02 15:50:18:0338] disconnect device ...
+[2017-11-02 15:50:18:0382] gvsp recv thread stop
+[2017-11-02 15:50:19:0373] [socket] NearBID[787], LastBID[787], output[581]
+[2017-11-02 15:51:01:0161] socket mode start!
+[2017-11-02 15:51:01:0165] disconnect device ...
+[2017-11-02 15:51:01:0165] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 15:51:01:0165] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 15:51:01:0165] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 15:51:01:0165] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 15:51:01:0167] socket mode start!
+[2017-11-02 15:51:01:0168] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 15:51:01:0168] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 15:51:01:0168] connecting device ... hostIP[c0a8010a], hostPort[65043], devIP[c0a80101]
+[2017-11-02 15:51:01:0369] detect mtu [9212]!
+[2017-11-02 15:51:02:0384] UDP_ReadnTimeout  [3016]!
+[2017-11-02 15:51:02:0389] Optimal PacketSize  [3044]!
+[2017-11-02 15:51:02:0540] gvsp recv thread start...
+[2017-11-02 15:52:12:0044] getfcnt [12755], getfcntsucceed[1034], totalRecv[1035] 
+[2017-11-02 15:52:12:0183] getfcnt [12756], getfcntsucceed[1034], totalRecv[1035] 
+[2017-11-02 15:52:12:0183] disconnect device ...
+[2017-11-02 15:52:12:0230] gvsp recv thread stop
+[2017-11-02 15:52:12:0429] [socket] NearBID[1822], LastBID[1822], output[1035]
+[2017-11-02 15:54:35:0317] socket mode start!
+[2017-11-02 15:54:35:0322] disconnect device ...
+[2017-11-02 15:54:35:0322] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 15:54:35:0322] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 15:54:35:0323] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 15:54:35:0323] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 15:54:35:0326] socket mode start!
+[2017-11-02 15:54:35:0326] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 15:54:35:0326] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 15:54:35:0327] connecting device ... hostIP[c0a8010a], hostPort[65113], devIP[c0a80101]
+[2017-11-02 15:54:35:0532] detect mtu [9212]!
+[2017-11-02 15:54:36:0550] UDP_ReadnTimeout  [3016]!
+[2017-11-02 15:54:36:0558] Optimal PacketSize  [3044]!
+[2017-11-02 15:54:36:0709] gvsp recv thread start...
+[2017-11-02 15:55:54:0749] getfcnt [14215], getfcntsucceed[1145], totalRecv[1145] 
+[2017-11-02 15:55:54:0885] getfcnt [14216], getfcntsucceed[1145], totalRecv[1145] 
+[2017-11-02 15:55:54:0885] disconnect device ...
+[2017-11-02 15:55:54:0929] gvsp recv thread stop
+[2017-11-02 15:55:55:0052] [socket] NearBID[2967], LastBID[2967], output[1145]
+[2017-11-02 15:57:23:0259] socket mode start!
+[2017-11-02 15:57:23:0264] disconnect device ...
+[2017-11-02 15:57:23:0264] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 15:57:23:0264] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 15:57:23:0264] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 15:57:23:0264] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 15:57:23:0266] socket mode start!
+[2017-11-02 15:57:23:0267] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 15:57:23:0267] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 15:57:23:0268] connecting device ... hostIP[c0a8010a], hostPort[65183], devIP[c0a80101]
+[2017-11-02 15:57:23:0539] detect mtu [9212]!
+[2017-11-02 15:57:24:0550] UDP_ReadnTimeout  [3016]!
+[2017-11-02 15:57:24:0554] Optimal PacketSize  [3044]!
+[2017-11-02 15:57:24:0778] gvsp recv thread start...
+[2017-11-02 15:58:56:0125] getfcnt [17099], getfcntsucceed[1329], totalRecv[1330] 
+[2017-11-02 15:58:56:0263] getfcnt [17100], getfcntsucceed[1329], totalRecv[1330] 
+[2017-11-02 15:58:56:0263] disconnect device ...
+[2017-11-02 15:58:56:0312] gvsp recv thread stop
+[2017-11-02 15:58:56:0641] [socket] NearBID[4899], LastBID[4899], output[1330]
+[2017-11-02 15:59:51:0288] socket mode start!
+[2017-11-02 15:59:51:0292] disconnect device ...
+[2017-11-02 15:59:51:0292] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 15:59:51:0292] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 15:59:51:0292] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 15:59:51:0292] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 15:59:51:0294] socket mode start!
+[2017-11-02 15:59:51:0296] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 15:59:51:0297] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 15:59:51:0297] connecting device ... hostIP[c0a8010a], hostPort[65233], devIP[c0a80101]
+[2017-11-02 15:59:51:0499] detect mtu [9212]!
+[2017-11-02 15:59:52:0515] UDP_ReadnTimeout  [3016]!
+[2017-11-02 15:59:52:0519] Optimal PacketSize  [3044]!
+[2017-11-02 15:59:52:0671] gvsp recv thread start...
+[2017-11-02 16:03:10:0158] socket mode start!
+[2017-11-02 16:03:10:0162] disconnect device ...
+[2017-11-02 16:03:10:0162] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:03:10:0162] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:03:10:0162] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:03:10:0162] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:03:10:0165] socket mode start!
+[2017-11-02 16:03:10:0166] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:03:10:0166] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:03:10:0166] connecting device ... hostIP[c0a8010a], hostPort[65300], devIP[c0a80101]
+[2017-11-02 16:03:10:0372] detect mtu [9212]!
+[2017-11-02 16:03:11:0388] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:03:11:0391] Optimal PacketSize  [3044]!
+[2017-11-02 16:03:11:0546] gvsp recv thread start...
+[2017-11-02 16:03:29:0036] getfcnt [3115], getfcntsucceed[259], totalRecv[260] 
+[2017-11-02 16:03:29:0173] getfcnt [3116], getfcntsucceed[259], totalRecv[260] 
+[2017-11-02 16:03:29:0173] disconnect device ...
+[2017-11-02 16:03:29:0222] gvsp recv thread stop
+[2017-11-02 16:03:29:0959] [socket] NearBID[5619], LastBID[5619], output[260]
+[2017-11-02 16:03:40:0857] socket mode start!
+[2017-11-02 16:03:40:0861] disconnect device ...
+[2017-11-02 16:03:40:0861] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:03:40:0861] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:03:40:0861] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:03:40:0861] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:03:40:0864] socket mode start!
+[2017-11-02 16:03:40:0865] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:03:40:0865] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:03:40:0865] connecting device ... hostIP[c0a8010a], hostPort[65322], devIP[c0a80101]
+[2017-11-02 16:03:41:0055] detect mtu [9212]!
+[2017-11-02 16:03:42:0070] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:03:42:0074] Optimal PacketSize  [3044]!
+[2017-11-02 16:03:42:0225] gvsp recv thread start...
+[2017-11-02 16:03:49:0329] getfcnt [1251], getfcntsucceed[100], totalRecv[101] 
+[2017-11-02 16:03:49:0466] getfcnt [1252], getfcntsucceed[100], totalRecv[101] 
+[2017-11-02 16:03:49:0466] disconnect device ...
+[2017-11-02 16:03:49:0516] gvsp recv thread stop
+[2017-11-02 16:03:49:0577] [socket] NearBID[5720], LastBID[5720], output[101]
+[2017-11-02 16:03:58:0669] socket mode start!
+[2017-11-02 16:03:58:0673] disconnect device ...
+[2017-11-02 16:03:58:0673] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:03:58:0673] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:03:58:0674] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:03:58:0674] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:03:58:0676] socket mode start!
+[2017-11-02 16:03:58:0676] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:03:58:0676] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:03:58:0677] connecting device ... hostIP[c0a8010a], hostPort[65338], devIP[c0a80101]
+[2017-11-02 16:03:58:0877] detect mtu [9212]!
+[2017-11-02 16:03:59:0894] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:03:59:0899] Optimal PacketSize  [3044]!
+[2017-11-02 16:04:00:0046] gvsp recv thread start...
+[2017-11-02 16:04:39:0647] getfcnt [7141], getfcntsucceed[590], totalRecv[591] 
+[2017-11-02 16:04:39:0786] getfcnt [7142], getfcntsucceed[590], totalRecv[591] 
+[2017-11-02 16:04:39:0786] disconnect device ...
+[2017-11-02 16:04:39:0832] gvsp recv thread stop
+[2017-11-02 16:04:40:0428] [socket] NearBID[6311], LastBID[6311], output[591]
+[2017-11-02 16:05:35:0292] socket mode start!
+[2017-11-02 16:05:35:0296] disconnect device ...
+[2017-11-02 16:05:35:0296] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:05:35:0296] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:05:35:0296] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:05:35:0296] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:05:35:0298] socket mode start!
+[2017-11-02 16:05:35:0298] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:05:35:0298] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:05:35:0299] connecting device ... hostIP[c0a8010a], hostPort[65373], devIP[c0a80101]
+[2017-11-02 16:05:35:0491] detect mtu [9212]!
+[2017-11-02 16:05:36:0509] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:05:36:0513] Optimal PacketSize  [3044]!
+[2017-11-02 16:05:36:0663] gvsp recv thread start...
+[2017-11-02 16:05:53:0955] getfcnt [3109], getfcntsucceed[256], totalRecv[258] 
+[2017-11-02 16:05:54:0092] getfcnt [3110], getfcntsucceed[256], totalRecv[258] 
+[2017-11-02 16:05:54:0092] disconnect device ...
+[2017-11-02 16:05:54:0143] gvsp recv thread stop
+[2017-11-02 16:05:55:0001] [socket] NearBID[6569], LastBID[6569], output[258]
+[2017-11-02 16:06:17:0586] socket mode start!
+[2017-11-02 16:06:17:0591] disconnect device ...
+[2017-11-02 16:06:17:0591] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:06:17:0591] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:06:17:0591] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:06:17:0591] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:06:17:0593] socket mode start!
+[2017-11-02 16:06:17:0594] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:06:17:0594] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:06:17:0594] connecting device ... hostIP[c0a8010a], hostPort[65398], devIP[c0a80101]
+[2017-11-02 16:06:17:0785] detect mtu [9212]!
+[2017-11-02 16:06:18:0798] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:06:18:0801] Optimal PacketSize  [3044]!
+[2017-11-02 16:06:18:0954] gvsp recv thread start...
+[2017-11-02 16:06:43:0176] getfcnt [4382], getfcntsucceed[360], totalRecv[361] 
+[2017-11-02 16:06:43:0313] getfcnt [4383], getfcntsucceed[360], totalRecv[361] 
+[2017-11-02 16:06:43:0313] disconnect device ...
+[2017-11-02 16:06:43:0363] gvsp recv thread stop
+[2017-11-02 16:06:44:0557] [socket] NearBID[6930], LastBID[6930], output[361]
+[2017-11-02 16:06:45:0065] socket mode start!
+[2017-11-02 16:06:45:0067] disconnect device ...
+[2017-11-02 16:06:45:0067] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:06:45:0067] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:06:45:0067] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:06:45:0067] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:06:45:0070] socket mode start!
+[2017-11-02 16:06:45:0071] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:06:45:0071] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:06:45:0072] connecting device ... hostIP[c0a8010a], hostPort[65422], devIP[c0a80101]
+[2017-11-02 16:06:45:0179] detect mtu [9212]!
+[2017-11-02 16:06:46:0192] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:06:46:0196] Optimal PacketSize  [3044]!
+[2017-11-02 16:06:46:0346] gvsp recv thread start...
+[2017-11-02 16:06:47:0451] getfcnt [179], getfcntsucceed[14], totalRecv[15] 
+[2017-11-02 16:06:47:0589] getfcnt [180], getfcntsucceed[14], totalRecv[15] 
+[2017-11-02 16:06:47:0589] disconnect device ...
+[2017-11-02 16:06:47:0636] gvsp recv thread stop
+[2017-11-02 16:06:48:0759] [socket] NearBID[6945], LastBID[6945], output[15]
+[2017-11-02 16:07:06:0926] socket mode start!
+[2017-11-02 16:07:06:0930] disconnect device ...
+[2017-11-02 16:07:06:0930] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:07:06:0930] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:07:06:0930] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:07:06:0931] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:07:06:0932] socket mode start!
+[2017-11-02 16:07:06:0933] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:07:06:0933] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:07:06:0933] connecting device ... hostIP[c0a8010a], hostPort[65441], devIP[c0a80101]
+[2017-11-02 16:07:07:0110] detect mtu [9212]!
+[2017-11-02 16:07:08:0122] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:07:08:0126] Optimal PacketSize  [3044]!
+[2017-11-02 16:07:08:0275] gvsp recv thread start...
+[2017-11-02 16:07:23:0771] getfcnt [2791], getfcntsucceed[230], totalRecv[231] 
+[2017-11-02 16:07:23:0909] getfcnt [2792], getfcntsucceed[230], totalRecv[231] 
+[2017-11-02 16:07:23:0909] disconnect device ...
+[2017-11-02 16:07:23:0954] gvsp recv thread stop
+[2017-11-02 16:07:24:0087] [socket] NearBID[7176], LastBID[7176], output[231]
+[2017-11-02 16:07:40:0836] socket mode start!
+[2017-11-02 16:07:40:0841] disconnect device ...
+[2017-11-02 16:07:40:0841] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:07:40:0841] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:07:40:0841] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:07:40:0841] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:07:40:0843] socket mode start!
+[2017-11-02 16:07:40:0844] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:07:40:0844] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:07:40:0844] connecting device ... hostIP[c0a8010a], hostPort[65470], devIP[c0a80101]
+[2017-11-02 16:07:41:0042] detect mtu [9212]!
+[2017-11-02 16:07:42:0055] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:07:42:0059] Optimal PacketSize  [3044]!
+[2017-11-02 16:07:42:0208] gvsp recv thread start...
+[2017-11-02 16:09:03:0037] getfcnt [14633], getfcntsucceed[1206], totalRecv[1207] 
+[2017-11-02 16:09:03:0175] getfcnt [14634], getfcntsucceed[1206], totalRecv[1207] 
+[2017-11-02 16:09:03:0175] disconnect device ...
+[2017-11-02 16:09:03:0224] gvsp recv thread stop
+[2017-11-02 16:09:04:0155] [socket] NearBID[8383], LastBID[8383], output[1207]
+[2017-11-02 16:39:15:0435] socket mode start!
+[2017-11-02 16:39:15:0439] disconnect device ...
+[2017-11-02 16:39:15:0439] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:39:15:0439] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:39:15:0439] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:39:15:0439] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:39:15:0442] socket mode start!
+[2017-11-02 16:39:15:0444] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:39:15:0444] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:39:15:0445] connecting device ... hostIP[c0a8010a], hostPort[62007], devIP[c0a80101]
+[2017-11-02 16:39:15:0657] detect mtu [9212]!
+[2017-11-02 16:39:16:0675] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:39:16:0681] Optimal PacketSize  [3044]!
+[2017-11-02 16:39:16:0833] gvsp recv thread start...
+[2017-11-02 16:45:02:0241] socket mode start!
+[2017-11-02 16:45:02:0245] disconnect device ...
+[2017-11-02 16:45:02:0245] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:45:02:0245] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:45:02:0245] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:45:02:0245] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:45:02:0248] socket mode start!
+[2017-11-02 16:45:02:0250] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:45:02:0250] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:45:02:0250] connecting device ... hostIP[c0a8010a], hostPort[56470], devIP[c0a80101]
+[2017-11-02 16:45:02:0628] detect mtu [9212]!
+[2017-11-02 16:45:03:0641] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:45:03:0645] Optimal PacketSize  [3044]!
+[2017-11-02 16:45:03:0869] gvsp recv thread start...
+[2017-11-02 16:47:40:0941] socket mode start!
+[2017-11-02 16:47:40:0946] disconnect device ...
+[2017-11-02 16:47:40:0946] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:47:40:0946] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:47:40:0946] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:47:40:0946] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:47:40:0951] socket mode start!
+[2017-11-02 16:47:40:0951] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:47:40:0951] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:47:40:0951] connecting device ... hostIP[c0a8010a], hostPort[60717], devIP[c0a80101]
+[2017-11-02 16:47:41:0271] detect mtu [9212]!
+[2017-11-02 16:47:42:0288] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:47:42:0291] Optimal PacketSize  [3044]!
+[2017-11-02 16:47:42:0531] gvsp recv thread start...
+[2017-11-02 16:48:41:0745] socket mode start!
+[2017-11-02 16:48:41:0749] disconnect device ...
+[2017-11-02 16:48:41:0749] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:48:41:0749] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:48:41:0749] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:48:41:0749] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:48:41:0751] socket mode start!
+[2017-11-02 16:48:41:0752] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:48:41:0752] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:48:41:0753] connecting device ... hostIP[c0a8010a], hostPort[50450], devIP[c0a80101]
+[2017-11-02 16:48:41:0961] detect mtu [9212]!
+[2017-11-02 16:48:42:0982] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:48:42:0986] Optimal PacketSize  [3044]!
+[2017-11-02 16:48:43:0139] gvsp recv thread start...
+[2017-11-02 16:50:26:0414] getfcnt [18636], getfcntsucceed[1464], totalRecv[1465] 
+[2017-11-02 16:50:26:0551] getfcnt [18637], getfcntsucceed[1464], totalRecv[1465] 
+[2017-11-02 16:50:26:0551] disconnect device ...
+[2017-11-02 16:50:26:0601] gvsp recv thread stop
+[2017-11-02 16:50:26:0795] [socket] NearBID[13793], LastBID[13793], output[1465]
+[2017-11-02 16:50:34:0835] socket mode start!
+[2017-11-02 16:50:34:0841] disconnect device ...
+[2017-11-02 16:50:34:0841] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:50:34:0841] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:50:34:0841] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:50:34:0841] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:50:34:0844] socket mode start!
+[2017-11-02 16:50:34:0846] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:50:34:0846] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:50:34:0846] connecting device ... hostIP[c0a8010a], hostPort[60990], devIP[c0a80101]
+[2017-11-02 16:50:35:0071] detect mtu [-3]!
+[2017-11-02 16:50:35:0085] Optimal PacketSize  [1500]!
+[2017-11-02 16:50:35:0247] gvsp recv thread start...
+[2017-11-02 16:53:03:0749] getfcnt [26814], getfcntsucceed[2218], totalRecv[2219] 
+[2017-11-02 16:53:03:0887] getfcnt [26815], getfcntsucceed[2218], totalRecv[2219] 
+[2017-11-02 16:53:03:0887] disconnect device ...
+[2017-11-02 16:53:03:0932] gvsp recv thread stop
+[2017-11-02 16:53:03:0947] [socket] NearBID[16012], LastBID[16012], output[2219]
+[2017-11-02 16:53:38:0619] socket mode start!
+[2017-11-02 16:53:38:0624] disconnect device ...
+[2017-11-02 16:53:38:0624] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:53:38:0624] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:53:38:0624] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:53:38:0624] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:53:38:0627] socket mode start!
+[2017-11-02 16:53:38:0628] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:53:38:0629] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:53:38:0629] connecting device ... hostIP[c0a8010a], hostPort[61556], devIP[c0a80101]
+[2017-11-02 16:53:38:0975] detect mtu [9212]!
+[2017-11-02 16:53:39:0988] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:53:39:0992] Optimal PacketSize  [3044]!
+[2017-11-02 16:53:40:0225] gvsp recv thread start...
+[2017-11-02 16:53:54:0485] socket mode start!
+[2017-11-02 16:53:54:0489] disconnect device ...
+[2017-11-02 16:53:54:0489] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:53:54:0489] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:53:54:0489] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:53:54:0489] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:53:54:0492] socket mode start!
+[2017-11-02 16:53:54:0493] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:53:54:0494] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:53:54:0494] connecting device ... hostIP[c0a8010a], hostPort[50059], devIP[c0a80101]
+[2017-11-02 16:53:54:0701] detect mtu [9212]!
+[2017-11-02 16:53:55:0714] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:53:55:0718] Optimal PacketSize  [3044]!
+[2017-11-02 16:53:55:0874] gvsp recv thread start...
+[2017-11-02 16:55:07:0207] socket mode start!
+[2017-11-02 16:55:07:0210] disconnect device ...
+[2017-11-02 16:55:07:0210] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:55:07:0210] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:55:07:0210] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:55:07:0210] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:55:07:0214] socket mode start!
+[2017-11-02 16:55:07:0215] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:55:07:0216] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:55:07:0216] connecting device ... hostIP[c0a8010a], hostPort[53037], devIP[c0a80101]
+[2017-11-02 16:55:07:0370] detect mtu [9212]!
+[2017-11-02 16:55:08:0383] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:55:08:0387] Optimal PacketSize  [3044]!
+[2017-11-02 16:55:08:0543] gvsp recv thread start...
+[2017-11-02 16:57:59:0938] socket mode start!
+[2017-11-02 16:57:59:0943] disconnect device ...
+[2017-11-02 16:57:59:0943] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:57:59:0943] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:57:59:0943] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:57:59:0943] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:57:59:0945] socket mode start!
+[2017-11-02 16:57:59:0947] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:57:59:0947] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:57:59:0947] connecting device ... hostIP[c0a8010a], hostPort[62634], devIP[c0a80101]
+[2017-11-02 16:58:00:0155] detect mtu [9212]!
+[2017-11-02 16:58:01:0173] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:58:01:0177] Optimal PacketSize  [3044]!
+[2017-11-02 16:58:01:0332] gvsp recv thread start...
+[2017-11-02 16:58:53:0213] socket mode start!
+[2017-11-02 16:58:53:0217] disconnect device ...
+[2017-11-02 16:58:53:0217] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:58:53:0217] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:58:53:0217] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 16:58:53:0217] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 16:58:53:0220] socket mode start!
+[2017-11-02 16:58:53:0222] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:58:53:0222] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 16:58:53:0223] connecting device ... hostIP[c0a8010a], hostPort[60870], devIP[c0a80101]
+[2017-11-02 16:58:53:0429] detect mtu [9212]!
+[2017-11-02 16:58:54:0445] UDP_ReadnTimeout  [3016]!
+[2017-11-02 16:58:54:0449] Optimal PacketSize  [3044]!
+[2017-11-02 16:58:54:0600] gvsp recv thread start...
+[2017-11-02 16:59:52:0318] getfcnt [10352], getfcntsucceed[840], totalRecv[841] 
+[2017-11-02 16:59:52:0457] getfcnt [10353], getfcntsucceed[840], totalRecv[841] 
+[2017-11-02 16:59:52:0457] disconnect device ...
+[2017-11-02 16:59:52:0505] gvsp recv thread stop
+[2017-11-02 16:59:53:0676] [socket] NearBID[20010], LastBID[20010], output[841]
+[2017-11-02 17:00:11:0082] socket mode start!
+[2017-11-02 17:00:11:0086] disconnect device ...
+[2017-11-02 17:00:11:0086] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:00:11:0086] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:00:11:0086] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:00:11:0086] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:00:11:0089] socket mode start!
+[2017-11-02 17:00:11:0090] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:00:11:0090] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:00:11:0090] connecting device ... hostIP[c0a8010a], hostPort[49510], devIP[c0a80101]
+[2017-11-02 17:00:11:0305] detect mtu [9212]!
+[2017-11-02 17:00:12:0323] UDP_ReadnTimeout  [3016]!
+[2017-11-02 17:00:12:0327] Optimal PacketSize  [3044]!
+[2017-11-02 17:00:12:0476] gvsp recv thread start...
+[2017-11-02 17:00:29:0066] getfcnt [2939], getfcntsucceed[226], totalRecv[228] 
+[2017-11-02 17:00:29:0203] getfcnt [2940], getfcntsucceed[226], totalRecv[228] 
+[2017-11-02 17:00:29:0203] disconnect device ...
+[2017-11-02 17:00:29:0256] gvsp recv thread stop
+[2017-11-02 17:00:29:0851] [socket] NearBID[20238], LastBID[20238], output[228]
+[2017-11-02 17:00:50:0748] socket mode start!
+[2017-11-02 17:00:50:0752] disconnect device ...
+[2017-11-02 17:00:50:0752] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:00:50:0752] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:00:50:0752] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:00:50:0752] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:00:50:0753] socket mode start!
+[2017-11-02 17:00:50:0754] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:00:50:0754] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:00:50:0754] connecting device ... hostIP[c0a8010a], hostPort[60868], devIP[c0a80101]
+[2017-11-02 17:00:50:0954] detect mtu [9212]!
+[2017-11-02 17:00:51:0973] UDP_ReadnTimeout  [3016]!
+[2017-11-02 17:00:51:0977] Optimal PacketSize  [3044]!
+[2017-11-02 17:00:52:0131] gvsp recv thread start...
+[2017-11-02 17:01:18:0023] getfcnt [4620], getfcntsucceed[361], totalRecv[362] 
+[2017-11-02 17:01:18:0167] getfcnt [4621], getfcntsucceed[361], totalRecv[362] 
+[2017-11-02 17:01:18:0167] disconnect device ...
+[2017-11-02 17:01:18:0211] gvsp recv thread stop
+[2017-11-02 17:01:19:0269] [socket] NearBID[20600], LastBID[20600], output[362]
+[2017-11-02 17:02:20:0294] socket mode start!
+[2017-11-02 17:02:20:0298] disconnect device ...
+[2017-11-02 17:02:20:0298] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:02:20:0298] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:02:20:0298] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:02:20:0298] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:02:20:0300] socket mode start!
+[2017-11-02 17:02:20:0301] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:02:20:0301] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:02:20:0301] connecting device ... hostIP[c0a8010a], hostPort[62375], devIP[c0a80101]
+[2017-11-02 17:02:20:0507] detect mtu [9212]!
+[2017-11-02 17:02:21:0527] UDP_ReadnTimeout  [3016]!
+[2017-11-02 17:02:21:0530] Optimal PacketSize  [3044]!
+[2017-11-02 17:02:21:0681] gvsp recv thread start...
+[2017-11-02 17:03:02:0359] getfcnt [7297], getfcntsucceed[585], totalRecv[586] 
+[2017-11-02 17:03:02:0499] getfcnt [7298], getfcntsucceed[585], totalRecv[586] 
+[2017-11-02 17:03:02:0499] disconnect device ...
+[2017-11-02 17:03:02:0541] gvsp recv thread stop
+[2017-11-02 17:03:03:0456] [socket] NearBID[21186], LastBID[21186], output[586]
+[2017-11-02 17:03:21:0305] socket mode start!
+[2017-11-02 17:03:21:0310] disconnect device ...
+[2017-11-02 17:03:21:0310] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:03:21:0310] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:03:21:0310] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:03:21:0310] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:03:21:0312] socket mode start!
+[2017-11-02 17:03:21:0313] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:03:21:0313] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:03:21:0313] connecting device ... hostIP[c0a8010a], hostPort[49227], devIP[c0a80101]
+[2017-11-02 17:03:21:0517] detect mtu [9212]!
+[2017-11-02 17:03:22:0529] UDP_ReadnTimeout  [3016]!
+[2017-11-02 17:03:22:0533] Optimal PacketSize  [3044]!
+[2017-11-02 17:03:22:0689] gvsp recv thread start...
+[2017-11-02 17:04:31:0532] getfcnt [12364], getfcntsucceed[993], totalRecv[993] 
+[2017-11-02 17:04:31:0669] getfcnt [12365], getfcntsucceed[993], totalRecv[993] 
+[2017-11-02 17:04:31:0669] disconnect device ...
+[2017-11-02 17:04:31:0716] gvsp recv thread stop
+[2017-11-02 17:04:32:0045] [socket] NearBID[22179], LastBID[22179], output[993]
+[2017-11-02 17:05:40:0167] socket mode start!
+[2017-11-02 17:05:40:0172] disconnect device ...
+[2017-11-02 17:05:40:0172] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:05:40:0172] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:05:40:0172] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:05:40:0172] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:05:40:0174] socket mode start!
+[2017-11-02 17:05:40:0176] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:05:40:0176] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:05:40:0176] connecting device ... hostIP[c0a8010a], hostPort[57444], devIP[c0a80101]
+[2017-11-02 17:05:40:0385] detect mtu [9212]!
+[2017-11-02 17:05:41:0405] UDP_ReadnTimeout  [3016]!
+[2017-11-02 17:05:41:0409] Optimal PacketSize  [3044]!
+[2017-11-02 17:05:41:0563] gvsp recv thread start...
+[2017-11-02 17:07:44:0261] socket mode start!
+[2017-11-02 17:07:44:0264] disconnect device ...
+[2017-11-02 17:07:44:0264] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:07:44:0264] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:07:44:0264] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:07:44:0264] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:07:44:0266] socket mode start!
+[2017-11-02 17:07:44:0267] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:07:44:0267] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:07:44:0267] connecting device ... hostIP[c0a8010a], hostPort[51984], devIP[c0a80101]
+[2017-11-02 17:07:44:0480] detect mtu [9212]!
+[2017-11-02 17:07:45:0499] UDP_ReadnTimeout  [3016]!
+[2017-11-02 17:07:45:0503] Optimal PacketSize  [3044]!
+[2017-11-02 17:07:45:0654] gvsp recv thread start...
+[2017-11-02 17:10:39:0093] socket mode start!
+[2017-11-02 17:10:39:0097] disconnect device ...
+[2017-11-02 17:10:39:0097] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:10:39:0098] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:10:39:0098] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:10:39:0098] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:10:39:0100] socket mode start!
+[2017-11-02 17:10:39:0101] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:10:39:0101] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:10:39:0101] connecting device ... hostIP[c0a8010a], hostPort[52935], devIP[c0a80101]
+[2017-11-02 17:10:39:0304] detect mtu [9212]!
+[2017-11-02 17:10:40:0317] UDP_ReadnTimeout  [3016]!
+[2017-11-02 17:10:40:0321] Optimal PacketSize  [3044]!
+[2017-11-02 17:10:40:0472] gvsp recv thread start...
+[2017-11-02 17:12:12:0493] getfcnt [16504], getfcntsucceed[1233], totalRecv[1234] 
+[2017-11-02 17:12:12:0632] getfcnt [16505], getfcntsucceed[1233], totalRecv[1234] 
+[2017-11-02 17:12:12:0632] disconnect device ...
+[2017-11-02 17:12:12:0681] gvsp recv thread stop
+[2017-11-02 17:12:13:0820] [socket] NearBID[26745], LastBID[26745], output[1234]
+[2017-11-02 17:13:37:0448] driver mode start!
+[2017-11-02 17:13:37:0449] Driver Mode [1]
+[2017-11-02 17:13:37:0454] disconnect device ...
+[2017-11-02 17:13:37:0454] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:13:37:0455] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:13:37:0455] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-02 17:13:37:0455] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-02 17:13:37:0458] driver mode start!
+[2017-11-02 17:13:37:0458] Driver Mode [1]
+[2017-11-02 17:13:37:0462] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:13:37:0462] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-02 17:13:37:0462] connecting device ... hostIP[c0a8010a], hostPort[49528], devIP[c0a80101]
+[2017-11-02 17:13:37:0650] detect mtu [9014]!
+[2017-11-02 17:13:38:0659] UDP_ReadnTimeout  [3016]!
+[2017-11-02 17:13:38:0663] Optimal PacketSize  [3044]!
+[2017-11-02 17:13:38:0735] gvsp recv thread start...
+[2017-11-02 17:15:23:0211] [driver] receive[8164430410], lostframe[0], lostpacket[0], maxBid[1567], lastBid[1567], totalRecv[1567] 
+[2017-11-02 17:15:23:0211] getfcnt [21637], getfcntsucceed[1567], totalRecv[1567] 
+[2017-11-02 17:15:23:0348] [driver] receive[8164430410], lostframe[0], lostpacket[0], maxBid[1567], lastBid[1567], totalRecv[1567] 
+[2017-11-02 17:15:23:0348] getfcnt [21638], getfcntsucceed[1567], totalRecv[1567] 
+[2017-11-02 17:15:23:0348] disconnect device ...
+[2017-11-02 17:15:23:0353] gvsp recv thread stop
+[2017-11-03 10:16:09:0938] driver mode start!
+[2017-11-03 10:16:09:0938] Driver Mode [1]
+[2017-11-03 10:16:09:0944] disconnect device ...
+[2017-11-03 10:16:09:0944] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-03 10:16:09:0944] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-03 10:16:09:0944] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-03 10:16:09:0944] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-03 10:16:09:0947] driver mode start!
+[2017-11-03 10:16:09:0948] Driver Mode [1]
+[2017-11-03 10:16:09:0951] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-03 10:16:09:0951] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-03 10:16:09:0952] connecting device ... hostIP[c0a8010a], hostPort[63673], devIP[c0a80101]
+[2017-11-03 10:16:10:0142] detect mtu [9014]!
+[2017-11-03 10:16:11:0152] UDP_ReadnTimeout  [3016]!
+[2017-11-03 10:16:11:0156] Optimal PacketSize  [3044]!
+[2017-11-03 10:16:11:0226] gvsp recv thread start...
+[2017-11-06 09:45:34:0249] driver mode start!
+[2017-11-06 09:45:34:0249] Driver Mode [1]
+[2017-11-06 09:45:34:0255] disconnect device ...
+[2017-11-06 09:45:34:0255] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 09:45:34:0255] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 09:45:34:0255] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 09:45:34:0255] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 09:45:34:0259] driver mode start!
+[2017-11-06 09:45:34:0259] Driver Mode [1]
+[2017-11-06 09:45:34:0262] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 09:45:34:0263] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 09:45:34:0263] connecting device ... hostIP[c0a8010a], hostPort[61672], devIP[c0a80101]
+[2017-11-06 09:45:34:0451] detect mtu [9014]!
+[2017-11-06 09:45:35:0461] UDP_ReadnTimeout  [3016]!
+[2017-11-06 09:45:35:0465] Optimal PacketSize  [3044]!
+[2017-11-06 09:45:35:0530] gvsp recv thread start...
+[2017-11-06 10:53:54:0184] driver mode start!
+[2017-11-06 10:53:54:0184] Driver Mode [1]
+[2017-11-06 10:53:54:0190] disconnect device ...
+[2017-11-06 10:53:54:0190] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 10:53:54:0190] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 10:53:54:0190] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 10:53:54:0190] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 10:53:54:0194] driver mode start!
+[2017-11-06 10:53:54:0194] Driver Mode [1]
+[2017-11-06 10:53:54:0197] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 10:53:54:0198] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 10:53:54:0198] connecting device ... hostIP[c0a8010a], hostPort[60871], devIP[c0a80101]
+[2017-11-06 10:53:54:0342] detect mtu [9014]!
+[2017-11-06 10:53:55:0352] UDP_ReadnTimeout  [3016]!
+[2017-11-06 10:53:55:0356] Optimal PacketSize  [3044]!
+[2017-11-06 10:53:55:0421] gvsp recv thread start...
+[2017-11-06 10:58:05:0484] [driver] receive[19553993190], lostframe[0], lostpacket[1], maxBid[50029], lastBid[50029], totalRecv[3753] 
+[2017-11-06 10:58:05:0484] getfcnt [51953], getfcntsucceed[3752], totalRecv[3753] 
+[2017-11-06 10:58:05:0621] [driver] receive[19553993190], lostframe[0], lostpacket[1], maxBid[50029], lastBid[50029], totalRecv[3753] 
+[2017-11-06 10:58:05:0621] getfcnt [51954], getfcntsucceed[3752], totalRecv[3753] 
+[2017-11-06 10:58:05:0621] disconnect device ...
+[2017-11-06 10:58:05:0624] gvsp recv thread stop
+[2017-11-06 10:58:40:0243] driver mode start!
+[2017-11-06 10:58:40:0243] Driver Mode [1]
+[2017-11-06 10:58:40:0249] disconnect device ...
+[2017-11-06 10:58:40:0249] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 10:58:40:0250] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 10:58:40:0250] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 10:58:40:0250] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 10:58:40:0254] driver mode start!
+[2017-11-06 10:58:40:0254] Driver Mode [1]
+[2017-11-06 10:58:40:0259] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 10:58:40:0259] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 10:58:40:0259] connecting device ... hostIP[c0a8010a], hostPort[64417], devIP[c0a80101]
+[2017-11-06 10:58:40:0480] detect mtu [9014]!
+[2017-11-06 10:58:41:0490] UDP_ReadnTimeout  [3016]!
+[2017-11-06 10:58:41:0494] Optimal PacketSize  [3044]!
+[2017-11-06 10:58:41:0630] gvsp recv thread start...
+[2017-11-06 10:59:35:0349] [driver] receive[4194235150], lostframe[0], lostpacket[1], maxBid[50834], lastBid[50834], totalRecv[805] 
+[2017-11-06 10:59:35:0349] getfcnt [11005], getfcntsucceed[804], totalRecv[805] 
+[2017-11-06 10:59:35:0487] [driver] receive[4194235150], lostframe[0], lostpacket[1], maxBid[50834], lastBid[50834], totalRecv[805] 
+[2017-11-06 10:59:35:0487] getfcnt [11006], getfcntsucceed[804], totalRecv[805] 
+[2017-11-06 10:59:35:0487] disconnect device ...
+[2017-11-06 10:59:35:0488] gvsp recv thread stop
+[2017-11-06 11:00:20:0003] driver mode start!
+[2017-11-06 11:00:20:0003] Driver Mode [1]
+[2017-11-06 11:00:20:0009] disconnect device ...
+[2017-11-06 11:00:20:0009] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:00:20:0009] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:00:20:0009] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:00:20:0009] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:00:20:0013] driver mode start!
+[2017-11-06 11:00:20:0013] Driver Mode [1]
+[2017-11-06 11:00:20:0017] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:00:20:0017] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:00:20:0017] connecting device ... hostIP[c0a8010a], hostPort[65379], devIP[c0a80101]
+[2017-11-06 11:00:20:0172] detect mtu [9014]!
+[2017-11-06 11:00:21:0183] UDP_ReadnTimeout  [3016]!
+[2017-11-06 11:00:21:0187] Optimal PacketSize  [3044]!
+[2017-11-06 11:00:21:0252] gvsp recv thread start...
+[2017-11-06 11:00:37:0209] [driver] receive[1240034740], lostframe[0], lostpacket[1], maxBid[51072], lastBid[51072], totalRecv[238] 
+[2017-11-06 11:00:37:0209] getfcnt [3294], getfcntsucceed[237], totalRecv[238] 
+[2017-11-06 11:00:37:0347] [driver] receive[1240034740], lostframe[0], lostpacket[1], maxBid[51072], lastBid[51072], totalRecv[238] 
+[2017-11-06 11:00:37:0347] getfcnt [3295], getfcntsucceed[237], totalRecv[238] 
+[2017-11-06 11:00:37:0347] disconnect device ...
+[2017-11-06 11:00:37:0348] gvsp recv thread stop
+[2017-11-06 11:02:28:0458] driver mode start!
+[2017-11-06 11:02:28:0459] Driver Mode [1]
+[2017-11-06 11:02:28:0464] disconnect device ...
+[2017-11-06 11:02:28:0464] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:02:28:0464] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:02:28:0464] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:02:28:0464] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:02:28:0467] driver mode start!
+[2017-11-06 11:02:28:0467] Driver Mode [1]
+[2017-11-06 11:02:28:0470] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:02:28:0470] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:02:28:0471] connecting device ... hostIP[c0a8010a], hostPort[61131], devIP[c0a80101]
+[2017-11-06 11:02:28:0608] detect mtu [9014]!
+[2017-11-06 11:02:29:0618] UDP_ReadnTimeout  [3016]!
+[2017-11-06 11:02:29:0622] Optimal PacketSize  [3044]!
+[2017-11-06 11:02:29:0692] gvsp recv thread start...
+[2017-11-06 11:02:57:0304] [driver] receive[2151824990], lostframe[0], lostpacket[1], maxBid[51485], lastBid[51485], totalRecv[413] 
+[2017-11-06 11:02:57:0304] getfcnt [5701], getfcntsucceed[412], totalRecv[413] 
+[2017-11-06 11:02:57:0442] [driver] receive[2151824990], lostframe[0], lostpacket[1], maxBid[51485], lastBid[51485], totalRecv[413] 
+[2017-11-06 11:02:57:0442] getfcnt [5702], getfcntsucceed[412], totalRecv[413] 
+[2017-11-06 11:02:57:0442] disconnect device ...
+[2017-11-06 11:02:57:0448] gvsp recv thread stop
+[2017-11-06 11:03:35:0955] driver mode start!
+[2017-11-06 11:03:35:0955] Driver Mode [1]
+[2017-11-06 11:03:35:0961] disconnect device ...
+[2017-11-06 11:03:35:0962] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:03:35:0962] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:03:35:0962] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:03:35:0962] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:03:35:0966] driver mode start!
+[2017-11-06 11:03:35:0966] Driver Mode [1]
+[2017-11-06 11:03:35:0971] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:03:35:0971] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:03:35:0971] connecting device ... hostIP[c0a8010a], hostPort[61517], devIP[c0a80101]
+[2017-11-06 11:03:36:0176] detect mtu [9014]!
+[2017-11-06 11:03:37:0186] UDP_ReadnTimeout  [3016]!
+[2017-11-06 11:03:37:0190] Optimal PacketSize  [3044]!
+[2017-11-06 11:03:37:0324] gvsp recv thread start...
+[2017-11-06 11:04:11:0793] driver mode start!
+[2017-11-06 11:04:11:0793] Driver Mode [1]
+[2017-11-06 11:04:11:0800] disconnect device ...
+[2017-11-06 11:04:11:0800] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:04:11:0800] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:04:11:0800] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:04:11:0800] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:04:11:0805] driver mode start!
+[2017-11-06 11:04:11:0805] Driver Mode [1]
+[2017-11-06 11:04:11:0810] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:04:11:0810] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:04:11:0810] connecting device ... hostIP[c0a8010a], hostPort[57926], devIP[c0a80101]
+[2017-11-06 11:04:12:0053] detect mtu [9014]!
+[2017-11-06 11:04:13:0063] UDP_ReadnTimeout  [3016]!
+[2017-11-06 11:04:13:0067] Optimal PacketSize  [3044]!
+[2017-11-06 11:04:13:0186] gvsp recv thread start...
+[2017-11-06 11:05:25:0104] driver mode start!
+[2017-11-06 11:05:25:0104] Driver Mode [1]
+[2017-11-06 11:05:25:0111] disconnect device ...
+[2017-11-06 11:05:25:0111] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:05:25:0111] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:05:25:0111] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:05:25:0111] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:05:25:0117] driver mode start!
+[2017-11-06 11:05:25:0117] Driver Mode [1]
+[2017-11-06 11:05:25:0120] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:05:25:0120] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:05:25:0120] connecting device ... hostIP[c0a8010a], hostPort[54300], devIP[c0a80101]
+[2017-11-06 11:05:25:0357] detect mtu [9014]!
+[2017-11-06 11:05:26:0367] UDP_ReadnTimeout  [3016]!
+[2017-11-06 11:05:26:0371] Optimal PacketSize  [3044]!
+[2017-11-06 11:05:26:0532] gvsp recv thread start...
+[2017-11-06 11:08:13:0280] driver mode start!
+[2017-11-06 11:08:13:0281] Driver Mode [1]
+[2017-11-06 11:08:13:0287] disconnect device ...
+[2017-11-06 11:08:13:0287] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:08:13:0287] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:08:13:0287] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:08:13:0287] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:08:13:0292] driver mode start!
+[2017-11-06 11:08:13:0292] Driver Mode [1]
+[2017-11-06 11:08:13:0297] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:08:13:0297] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:08:13:0297] connecting device ... hostIP[c0a8010a], hostPort[58827], devIP[c0a80101]
+[2017-11-06 11:08:13:0517] detect mtu [9014]!
+[2017-11-06 11:08:14:0527] UDP_ReadnTimeout  [3016]!
+[2017-11-06 11:08:14:0531] Optimal PacketSize  [3044]!
+[2017-11-06 11:08:14:0671] gvsp recv thread start...
+[2017-11-06 11:09:14:0880] driver mode start!
+[2017-11-06 11:09:14:0880] Driver Mode [1]
+[2017-11-06 11:09:14:0886] disconnect device ...
+[2017-11-06 11:09:14:0886] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:09:14:0886] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:09:14:0886] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 11:09:14:0886] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 11:09:14:0889] driver mode start!
+[2017-11-06 11:09:14:0889] Driver Mode [1]
+[2017-11-06 11:09:14:0893] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:09:14:0893] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 11:09:14:0893] connecting device ... hostIP[c0a8010a], hostPort[62722], devIP[c0a80101]
+[2017-11-06 11:09:15:0033] detect mtu [9014]!
+[2017-11-06 11:09:16:0043] UDP_ReadnTimeout  [3016]!
+[2017-11-06 11:09:16:0047] Optimal PacketSize  [3044]!
+[2017-11-06 11:09:16:0111] gvsp recv thread start...
+[2017-11-06 18:38:37:0560] driver mode start!
+[2017-11-06 18:38:37:0560] Driver Mode [1]
+[2017-11-06 18:38:37:0566] disconnect device ...
+[2017-11-06 18:38:37:0566] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 18:38:37:0566] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 18:38:37:0566] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 18:38:37:0566] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 18:38:37:0570] driver mode start!
+[2017-11-06 18:38:37:0570] Driver Mode [1]
+[2017-11-06 18:38:37:0574] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 18:38:37:0574] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 18:38:37:0574] connecting device ... hostIP[c0a8010a], hostPort[59238], devIP[c0a80101]
+[2017-11-06 18:38:37:0721] detect mtu [9014]!
+[2017-11-06 18:38:38:0731] UDP_ReadnTimeout  [3016]!
+[2017-11-06 18:38:38:0735] Optimal PacketSize  [3044]!
+[2017-11-06 18:38:38:0808] gvsp recv thread start...
+[2017-11-06 18:45:56:0908] driver mode start!
+[2017-11-06 18:45:56:0909] Driver Mode [1]
+[2017-11-06 18:45:56:0914] disconnect device ...
+[2017-11-06 18:45:56:0915] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 18:45:56:0915] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 18:45:56:0915] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-06 18:45:56:0915] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-06 18:45:56:0918] driver mode start!
+[2017-11-06 18:45:56:0918] Driver Mode [1]
+[2017-11-06 18:45:56:0922] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 18:45:56:0922] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-06 18:45:56:0922] connecting device ... hostIP[c0a8010a], hostPort[58837], devIP[c0a80101]
+[2017-11-06 18:45:57:0071] detect mtu [9014]!
+[2017-11-06 18:45:58:0081] UDP_ReadnTimeout  [3016]!
+[2017-11-06 18:45:58:0085] Optimal PacketSize  [3044]!
+[2017-11-06 18:45:58:0142] gvsp recv thread start...
+[2017-11-08 16:01:36:0610] socket mode start!
+[2017-11-08 16:01:36:0619] disconnect device ...
+[2017-11-08 16:01:36:0619] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-08 16:01:36:0619] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-08 16:01:36:0619] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-08 16:01:36:0619] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-08 16:01:36:0622] socket mode start!
+[2017-11-08 16:01:36:0624] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-08 16:01:36:0624] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-08 16:01:36:0624] connecting device ... hostIP[c0a8010a], hostPort[62341], devIP[c0a80101]
+[2017-11-08 16:01:36:0953] detect mtu [1514]!
+[2017-11-08 16:01:36:0970] Optimal PacketSize  [1500]!
+[2017-11-08 16:01:37:0143] gvsp recv thread start...
+[2017-11-08 16:02:55:0102] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-08 16:05:01:0666] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-08 16:09:56:0665] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-08 16:09:57:0166] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-08 16:09:58:0868] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-08 16:09:59:0369] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-08 16:10:01:0072] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-08 16:10:01:0572] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-08 16:10:03:0274] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-08 16:10:03:0774] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-08 16:10:04:0976] gvcp connect time out! [3000],  nPrivilegeValue[1], nHaveTimeOut[4000]
+[2017-11-08 16:16:18:0291] GVCP_WriteCmd fail [80000206], because m_bExit 
+[2017-11-08 16:16:18:0291] GVCP_WriteCmd fail [80000206], because m_bExit 
+[2017-11-08 16:16:18:0291] getfcnt [164823], getfcntsucceed[6166], totalRecv[6166] 
+[2017-11-08 16:16:18:0394] GVCP_WriteCmd fail [80000206], because m_bExit 
+[2017-11-08 16:16:18:0394] GVCP_WriteCmd fail [80000206], because m_bExit 
+[2017-11-08 16:16:18:0394] getfcnt [164841], getfcntsucceed[6166], totalRecv[6166] 
+[2017-11-08 16:16:18:0495] GVCP_WriteCmd fail [80000206], because m_bExit 
+[2017-11-08 16:16:18:0495] GVCP_WriteCmd fail [80000206], because m_bExit 
+[2017-11-08 16:16:18:0495] getfcnt [164841], getfcntsucceed[6166], totalRecv[6166] 
+[2017-11-08 16:16:18:0495] GVCP_WriteCmd fail [80000206], because m_bExit 
+[2017-11-08 16:16:18:0495] GVCP_WriteCmd fail [80000206], because m_bExit 
+[2017-11-08 16:16:18:0495] getfcnt [164841], getfcntsucceed[6166], totalRecv[6166] 
+[2017-11-08 16:16:18:0495] disconnect device ...
+[2017-11-08 16:16:18:0577] gvsp recv thread stop
+[2017-11-08 16:16:18:0577] GVCP_WriteCmd fail [80000206], because m_bExit 
+[2017-11-08 16:16:18:0583] [socket] NearBID[6167], LastBID[6167], output[6166]
+[2017-11-09 13:34:42:0281] socket mode start!
+[2017-11-09 13:34:42:0286] disconnect device ...
+[2017-11-09 13:34:42:0286] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-09 13:34:42:0286] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-09 13:34:42:0286] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-09 13:34:42:0286] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-09 13:34:42:0289] socket mode start!
+[2017-11-09 13:34:42:0290] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-09 13:34:42:0290] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-09 13:34:42:0290] connecting device ... hostIP[c0a8010a], hostPort[58570], devIP[c0a80101]
+[2017-11-09 13:34:42:0642] detect mtu [1514]!
+[2017-11-09 13:34:42:0659] Optimal PacketSize  [1500]!
+[2017-11-09 13:34:42:0825] gvsp recv thread start...
+[2017-11-09 13:35:05:0369] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-09 13:41:12:0195] socket mode start!
+[2017-11-09 13:41:12:0200] disconnect device ...
+[2017-11-09 13:41:12:0200] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-09 13:41:12:0200] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-09 13:41:12:0200] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-09 13:41:12:0200] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-09 13:41:12:0202] socket mode start!
+[2017-11-09 13:41:12:0203] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-09 13:41:12:0204] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-09 13:41:12:0204] connecting device ... hostIP[c0a8010a], hostPort[60956], devIP[c0a80101]
+[2017-11-09 13:41:12:0469] detect mtu [1514]!
+[2017-11-09 13:41:12:0488] Optimal PacketSize  [1500]!
+[2017-11-09 13:41:12:0657] gvsp recv thread start...
+[2017-11-09 13:49:49:0517] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-09 14:09:38:0383] socket mode start!
+[2017-11-09 14:09:38:0388] disconnect device ...
+[2017-11-09 14:09:38:0388] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-09 14:09:38:0388] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-09 14:09:38:0388] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-09 14:09:38:0388] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-09 14:09:38:0390] socket mode start!
+[2017-11-09 14:09:38:0391] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-09 14:09:38:0391] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-09 14:09:38:0391] connecting device ... hostIP[c0a8010a], hostPort[52557], devIP[c0a80101]
+[2017-11-09 14:09:38:0614] detect mtu [1514]!
+[2017-11-09 14:09:38:0629] Optimal PacketSize  [1500]!
+[2017-11-09 14:09:38:0793] gvsp recv thread start...
+[2017-11-09 14:13:28:0759] socket mode start!
+[2017-11-09 14:13:28:0764] disconnect device ...
+[2017-11-09 14:13:28:0764] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-09 14:13:28:0764] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-09 14:13:28:0764] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-09 14:13:28:0764] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-09 14:13:28:0766] socket mode start!
+[2017-11-09 14:13:28:0767] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-09 14:13:28:0767] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-09 14:13:28:0767] connecting device ... hostIP[c0a8010a], hostPort[52592], devIP[c0a80101]
+[2017-11-09 14:13:28:0985] detect mtu [1514]!
+[2017-11-09 14:13:29:0003] Optimal PacketSize  [1500]!
+[2017-11-09 14:13:29:0164] gvsp recv thread start...
+[2017-11-09 14:14:37:0519] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-09 14:14:51:0629] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-09 14:15:41:0930] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-09 14:17:48:0144] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-09 14:18:24:0867] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-09 14:19:44:0894] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-09 14:22:07:0278] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-09 14:22:32:0558] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2017-11-13 15:26:34:0453] socket mode start!
+[2017-11-13 15:26:34:0469] disconnect device ...
+[2017-11-13 15:26:34:0469] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-13 15:26:34:0469] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-13 15:26:34:0469] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2017-11-13 15:26:34:0469] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2017-11-13 15:26:34:0469] socket mode start!
+[2017-11-13 15:26:34:0469] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-13 15:26:34:0469] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2017-11-13 15:26:34:0469] connecting device ... hostIP[c0a8010a], hostPort[65458], devIP[c0a80101]
+[2017-11-13 15:26:34:0774] detect mtu [1514]!
+[2017-11-13 15:26:34:0793] Optimal PacketSize  [1500]!
+[2017-11-13 15:26:34:0988] gvsp recv thread start...
+[2017-11-13 15:27:18:0132] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-15 13:33:51:0504] socket mode start!
+[2018-01-15 13:33:51:0508] disconnect device ...
+[2018-01-15 13:33:51:0508] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-15 13:33:51:0508] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-15 13:33:51:0508] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-15 13:33:51:0508] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-15 13:33:51:0521] socket mode start!
+[2018-01-15 13:33:51:0523] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-15 13:33:51:0523] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-15 13:33:51:0524] connecting device ... hostIP[3b4e060a], hostPort[57773], devIP[3b4e0601]
+[2018-01-15 13:33:52:0024] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-15 13:33:52:0524] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-15 13:33:52:0524] GVCP_GetAccessPrivilege [1][80000206]
+[2018-01-15 13:33:52:0524] connect device failed! [80000206]
+[2018-01-15 13:33:52:0524] disconnect device ...
+[2018-01-15 13:33:53:0025] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-15 13:33:53:0525] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-15 13:34:21:0613] socket mode start!
+[2018-01-15 13:34:21:0616] disconnect device ...
+[2018-01-15 13:34:21:0616] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-15 13:34:21:0616] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-15 13:34:21:0616] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-15 13:34:21:0616] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-15 13:34:21:0627] socket mode start!
+[2018-01-15 13:34:21:0629] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-15 13:34:21:0629] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-15 13:34:21:0629] connecting device ... hostIP[3b4e060a], hostPort[57785], devIP[3b4e0602]
+[2018-01-15 13:34:22:0027] detect mtu [9212]!
+[2018-01-15 13:34:23:0441] Optimal PacketSize  [1500]!
+[2018-01-15 13:34:23:0596] gvsp recv thread start...
+[2018-01-15 13:35:08:0588] socket mode start!
+[2018-01-15 13:35:08:0592] disconnect device ...
+[2018-01-15 13:35:08:0592] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-15 13:35:08:0592] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-15 13:35:08:0592] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-15 13:35:08:0592] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-15 13:35:08:0603] socket mode start!
+[2018-01-15 13:35:08:0604] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-15 13:35:08:0605] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-15 13:35:08:0605] connecting device ... hostIP[3b4e060a], hostPort[57798], devIP[3b4e0602]
+[2018-01-15 13:35:08:0744] detect mtu [9212]!
+[2018-01-15 13:35:10:0159] Optimal PacketSize  [1500]!
+[2018-01-15 13:35:10:0315] gvsp recv thread start...
+[2018-01-15 13:36:36:0107] socket mode start!
+[2018-01-15 13:36:36:0111] disconnect device ...
+[2018-01-15 13:36:36:0111] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-15 13:36:36:0111] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-15 13:36:36:0111] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-15 13:36:36:0111] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-15 13:36:36:0122] socket mode start!
+[2018-01-15 13:36:36:0124] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-15 13:36:36:0124] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-15 13:36:36:0124] connecting device ... hostIP[3b4e060a], hostPort[57827], devIP[3b4e0602]
+[2018-01-15 13:36:36:0269] detect mtu [9212]!
+[2018-01-15 13:36:37:0684] Optimal PacketSize  [1500]!
+[2018-01-15 13:36:37:0840] gvsp recv thread start...
+[2018-01-15 19:46:15:0550] socket mode start!
+[2018-01-15 19:46:15:0554] disconnect device ...
+[2018-01-15 19:46:15:0554] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-15 19:46:15:0554] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-15 19:46:15:0554] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-15 19:46:15:0554] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-15 19:46:15:0569] socket mode start!
+[2018-01-15 19:46:15:0571] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-15 19:46:15:0571] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-15 19:46:15:0571] connecting device ... hostIP[3b4e060a], hostPort[65126], devIP[3b4e0602]
+[2018-01-15 19:46:16:0071] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-15 19:46:16:0571] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-15 19:46:16:0571] GVCP_GetAccessPrivilege [1][80000206]
+[2018-01-15 19:46:16:0571] connect device failed! [80000206]
+[2018-01-15 19:46:16:0571] disconnect device ...
+[2018-01-15 19:46:17:0072] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-15 19:46:17:0572] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-15 19:48:43:0169] socket mode start!
+[2018-01-15 19:48:43:0173] disconnect device ...
+[2018-01-15 19:48:43:0173] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-15 19:48:43:0173] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-15 19:48:43:0173] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-15 19:48:43:0173] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-15 19:48:43:0186] socket mode start!
+[2018-01-15 19:48:43:0188] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-15 19:48:43:0188] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-15 19:48:43:0188] connecting device ... hostIP[3b4e060a], hostPort[62566], devIP[3b4e0601]
+[2018-01-15 19:48:43:0688] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-15 19:48:44:0188] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-15 19:48:44:0188] GVCP_GetAccessPrivilege [1][80000206]
+[2018-01-15 19:48:44:0188] connect device failed! [80000206]
+[2018-01-15 19:48:44:0188] disconnect device ...
+[2018-01-15 19:48:44:0689] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-15 19:48:45:0189] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-21 22:46:51:0515] socket mode start!
+[2018-01-21 22:46:51:0515] disconnect device ...
+[2018-01-21 22:46:51:0515] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-21 22:46:51:0515] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-21 22:46:51:0515] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-21 22:46:51:0515] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-21 22:46:51:0530] socket mode start!
+[2018-01-21 22:46:51:0530] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-21 22:46:51:0530] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-21 22:46:51:0530] connecting device ... hostIP[3b4e060a], hostPort[54200], devIP[3b4e0601]
+[2018-01-21 22:46:52:0031] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-21 22:46:52:0531] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-21 22:46:52:0531] GVCP_GetAccessPrivilege [1][80000206]
+[2018-01-21 22:46:52:0531] connect device failed! [80000206]
+[2018-01-21 22:46:52:0531] disconnect device ...
+[2018-01-21 22:46:53:0032] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-21 22:46:53:0532] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-21 22:47:06:0755] socket mode start!
+[2018-01-21 22:47:06:0758] disconnect device ...
+[2018-01-21 22:47:06:0758] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-21 22:47:06:0758] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-21 22:47:06:0758] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-21 22:47:06:0758] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-21 22:47:06:0767] socket mode start!
+[2018-01-21 22:47:06:0768] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-21 22:47:06:0768] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-21 22:47:06:0768] connecting device ... hostIP[3b4e060a], hostPort[51363], devIP[3b4e0602]
+[2018-01-21 22:47:07:0081] detect mtu [9212]!
+[2018-01-21 22:47:08:0111] UDP_ReadnTimeout  [3016]!
+[2018-01-21 22:47:08:0111] Optimal PacketSize  [3044]!
+[2018-01-21 22:47:08:0267] gvsp recv thread start...
+[2018-01-21 22:47:23:0894] socket mode start!
+[2018-01-21 22:47:23:0894] disconnect device ...
+[2018-01-21 22:47:23:0894] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-21 22:47:23:0894] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-21 22:47:23:0894] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-21 22:47:23:0894] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-21 22:47:23:0894] socket mode start!
+[2018-01-21 22:47:23:0909] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-21 22:47:23:0909] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-21 22:47:23:0909] connecting device ... hostIP[3b4e060a], hostPort[52598], devIP[3b4e0602]
+[2018-01-21 22:47:24:0066] detect mtu [-3]!
+[2018-01-21 22:47:24:0066] Optimal PacketSize  [1500]!
+[2018-01-21 22:47:24:0222] gvsp recv thread start...
+[2018-01-21 22:49:02:0026] socket mode start!
+[2018-01-21 22:49:02:0026] disconnect device ...
+[2018-01-21 22:49:02:0026] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-21 22:49:02:0026] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-21 22:49:02:0026] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-21 22:49:02:0026] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-21 22:49:02:0042] socket mode start!
+[2018-01-21 22:49:02:0042] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-21 22:49:02:0042] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-21 22:49:02:0042] connecting device ... hostIP[3b4e060a], hostPort[56078], devIP[3b4e0602]
+[2018-01-21 22:49:02:0183] detect mtu [9212]!
+[2018-01-21 22:49:03:0188] UDP_ReadnTimeout  [3016]!
+[2018-01-21 22:49:03:0192] Optimal PacketSize  [3044]!
+[2018-01-21 22:49:03:0345] gvsp recv thread start...
+[2018-01-21 22:53:31:0286] socket mode start!
+[2018-01-21 22:53:31:0302] disconnect device ...
+[2018-01-21 22:53:31:0302] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-21 22:53:31:0302] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-21 22:53:31:0302] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-21 22:53:31:0302] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-21 22:53:31:0302] socket mode start!
+[2018-01-21 22:53:31:0317] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-21 22:53:31:0317] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-21 22:53:31:0317] connecting device ... hostIP[3b4e060a], hostPort[51665], devIP[3b4e0602]
+[2018-01-21 22:53:31:0583] detect mtu [9212]!
+[2018-01-21 22:53:32:0609] UDP_ReadnTimeout  [3016]!
+[2018-01-21 22:53:32:0609] Optimal PacketSize  [3044]!
+[2018-01-21 22:53:32:0766] gvsp recv thread start...
+[2018-01-21 23:07:52:0568] socket mode start!
+[2018-01-21 23:07:52:0571] disconnect device ...
+[2018-01-21 23:07:52:0572] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-21 23:07:52:0572] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-21 23:07:52:0572] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-21 23:07:52:0572] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-21 23:07:52:0581] socket mode start!
+[2018-01-21 23:07:52:0581] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-21 23:07:52:0581] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-21 23:07:52:0581] connecting device ... hostIP[3b4e060a], hostPort[57067], devIP[3b4e0602]
+[2018-01-21 23:07:52:0891] detect mtu [9212]!
+[2018-01-21 23:07:53:0901] UDP_ReadnTimeout  [3016]!
+[2018-01-21 23:07:53:0905] Optimal PacketSize  [3044]!
+[2018-01-21 23:07:54:0060] gvsp recv thread start...
+[2018-01-22 11:32:47:0844] socket mode start!
+[2018-01-22 11:32:47:0848] disconnect device ...
+[2018-01-22 11:32:47:0848] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 11:32:47:0848] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 11:32:47:0848] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 11:32:47:0848] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 11:32:47:0858] socket mode start!
+[2018-01-22 11:32:47:0859] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-22 11:32:47:0860] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-22 11:32:47:0860] connecting device ... hostIP[3b4e060a], hostPort[60226], devIP[3b4e0601]
+[2018-01-22 11:32:48:0360] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-22 11:32:48:0860] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-22 11:32:48:0860] GVCP_GetAccessPrivilege [1][80000206]
+[2018-01-22 11:32:48:0860] connect device failed! [80000206]
+[2018-01-22 11:32:48:0860] disconnect device ...
+[2018-01-22 11:32:49:0362] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-22 11:32:49:0863] gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2018-01-22 11:33:11:0528] socket mode start!
+[2018-01-22 11:33:11:0531] disconnect device ...
+[2018-01-22 11:33:11:0531] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 11:33:11:0531] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 11:33:11:0531] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 11:33:11:0531] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 11:33:11:0542] socket mode start!
+[2018-01-22 11:33:11:0542] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-22 11:33:11:0543] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-22 11:33:11:0543] connecting device ... hostIP[3b4e060a], hostPort[54612], devIP[3b4e0602]
+[2018-01-22 11:33:11:0843] detect mtu [9212]!
+[2018-01-22 11:33:13:0265] Optimal PacketSize  [1500]!
+[2018-01-22 11:33:13:0421] gvsp recv thread start...
+[2018-01-22 11:33:45:0572] socket mode start!
+[2018-01-22 11:33:45:0572] disconnect device ...
+[2018-01-22 11:33:45:0572] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 11:33:45:0572] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 11:33:45:0572] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 11:33:45:0572] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 11:33:45:0587] socket mode start!
+[2018-01-22 11:33:45:0587] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-22 11:33:45:0587] ReCreateSocket NewIp[0], SrcIP[3b4e060a]
+[2018-01-22 11:33:45:0587] connecting device ... hostIP[3b4e060a], hostPort[63486], devIP[3b4e0602]
+[2018-01-22 11:33:45:0712] detect mtu [9212]!
+[2018-01-22 11:33:46:0744] UDP_ReadnTimeout  [3016]!
+[2018-01-22 11:33:46:0744] Optimal PacketSize  [3044]!
+[2018-01-22 11:33:46:0900] gvsp recv thread start...
+[2018-01-22 12:47:47:0251] driver mode start!
+[2018-01-22 12:47:47:0252] Driver Mode [1]
+[2018-01-22 12:47:47:0258] disconnect device ...
+[2018-01-22 12:47:47:0258] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 12:47:47:0258] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 12:47:47:0258] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 12:47:47:0258] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 12:47:47:0261] driver mode start!
+[2018-01-22 12:47:47:0261] Driver Mode [1]
+[2018-01-22 12:47:47:0265] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 12:47:47:0265] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 12:47:47:0266] connecting device ... hostIP[c0a8010a], hostPort[59280], devIP[c0a80101]
+[2018-01-22 12:47:47:0540] detect mtu [9014]!
+[2018-01-22 12:47:48:0751] UDP_ReadnTimeout  [1992]!
+[2018-01-22 12:47:48:0754] Optimal PacketSize  [2020]!
+[2018-01-22 12:47:48:0816] gvsp recv thread start...
+[2018-01-22 12:48:11:0810] driver mode start!
+[2018-01-22 12:48:11:0810] Driver Mode [1]
+[2018-01-22 12:48:11:0816] disconnect device ...
+[2018-01-22 12:48:11:0816] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 12:48:11:0816] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 12:48:11:0816] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 12:48:11:0816] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 12:48:11:0819] driver mode start!
+[2018-01-22 12:48:11:0819] Driver Mode [1]
+[2018-01-22 12:48:11:0823] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 12:48:11:0823] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 12:48:11:0823] connecting device ... hostIP[c0a8010a], hostPort[58863], devIP[c0a80101]
+[2018-01-22 12:48:11:0969] detect mtu [9014]!
+[2018-01-22 12:48:12:0979] UDP_ReadnTimeout  [3016]!
+[2018-01-22 12:48:12:0983] Optimal PacketSize  [3044]!
+[2018-01-22 12:48:13:0049] gvsp recv thread start...
+[2018-01-22 12:50:05:0248] driver mode start!
+[2018-01-22 12:50:05:0248] Driver Mode [1]
+[2018-01-22 12:50:05:0255] disconnect device ...
+[2018-01-22 12:50:05:0255] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 12:50:05:0255] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 12:50:05:0255] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 12:50:05:0255] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 12:50:05:0260] driver mode start!
+[2018-01-22 12:50:05:0260] Driver Mode [1]
+[2018-01-22 12:50:05:0265] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 12:50:05:0266] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 12:50:05:0266] connecting device ... hostIP[c0a8010a], hostPort[61849], devIP[c0a80101]
+[2018-01-22 12:50:05:0488] detect mtu [9014]!
+[2018-01-22 12:50:06:0498] UDP_ReadnTimeout  [3016]!
+[2018-01-22 12:50:06:0502] Optimal PacketSize  [3044]!
+[2018-01-22 12:50:06:0636] gvsp recv thread start...
+[2018-01-22 12:51:31:0100] driver mode start!
+[2018-01-22 12:51:31:0101] Driver Mode [1]
+[2018-01-22 12:51:31:0107] disconnect device ...
+[2018-01-22 12:51:31:0107] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 12:51:31:0107] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 12:51:31:0107] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 12:51:31:0107] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 12:51:31:0111] driver mode start!
+[2018-01-22 12:51:31:0111] Driver Mode [1]
+[2018-01-22 12:51:31:0115] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 12:51:31:0116] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 12:51:31:0116] connecting device ... hostIP[c0a8010a], hostPort[64121], devIP[c0a80101]
+[2018-01-22 12:51:31:0265] detect mtu [9014]!
+[2018-01-22 12:51:32:0275] UDP_ReadnTimeout  [3016]!
+[2018-01-22 12:51:32:0279] Optimal PacketSize  [3044]!
+[2018-01-22 12:51:32:0343] gvsp recv thread start...
+[2018-01-22 13:01:18:0352] driver mode start!
+[2018-01-22 13:01:18:0352] Driver Mode [1]
+[2018-01-22 13:01:18:0360] disconnect device ...
+[2018-01-22 13:01:18:0360] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:01:18:0360] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:01:18:0360] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:01:18:0360] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:01:18:0363] driver mode start!
+[2018-01-22 13:01:18:0364] Driver Mode [1]
+[2018-01-22 13:01:18:0368] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:01:18:0369] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:01:18:0369] connecting device ... hostIP[c0a8010a], hostPort[53470], devIP[c0a80101]
+[2018-01-22 13:01:18:0515] detect mtu [9014]!
+[2018-01-22 13:01:19:0525] UDP_ReadnTimeout  [3016]!
+[2018-01-22 13:01:19:0529] Optimal PacketSize  [3044]!
+[2018-01-22 13:01:19:0592] gvsp recv thread start...
+[2018-01-22 13:01:34:0183] driver mode start!
+[2018-01-22 13:01:34:0183] Driver Mode [1]
+[2018-01-22 13:01:34:0191] disconnect device ...
+[2018-01-22 13:01:34:0191] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:01:34:0191] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:01:34:0191] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:01:34:0191] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:01:34:0194] driver mode start!
+[2018-01-22 13:01:34:0194] Driver Mode [1]
+[2018-01-22 13:01:34:0199] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:01:34:0200] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:01:34:0200] connecting device ... hostIP[c0a8010a], hostPort[63761], devIP[c0a80101]
+[2018-01-22 13:01:34:0339] detect mtu [9014]!
+[2018-01-22 13:01:35:0349] UDP_ReadnTimeout  [3016]!
+[2018-01-22 13:01:35:0353] Optimal PacketSize  [3044]!
+[2018-01-22 13:01:35:0426] gvsp recv thread start...
+[2018-01-22 13:03:28:0142] driver mode start!
+[2018-01-22 13:03:28:0142] Driver Mode [1]
+[2018-01-22 13:03:28:0150] disconnect device ...
+[2018-01-22 13:03:28:0150] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:03:28:0150] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:03:28:0150] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:03:28:0150] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:03:28:0153] driver mode start!
+[2018-01-22 13:03:28:0153] Driver Mode [1]
+[2018-01-22 13:03:28:0159] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:03:28:0159] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:03:28:0159] connecting device ... hostIP[c0a8010a], hostPort[57906], devIP[c0a80101]
+[2018-01-22 13:03:28:0301] detect mtu [9014]!
+[2018-01-22 13:03:29:0311] UDP_ReadnTimeout  [3016]!
+[2018-01-22 13:03:29:0315] Optimal PacketSize  [3044]!
+[2018-01-22 13:03:29:0377] gvsp recv thread start...
+[2018-01-22 13:04:16:0636] driver mode start!
+[2018-01-22 13:04:16:0636] Driver Mode [1]
+[2018-01-22 13:04:16:0644] disconnect device ...
+[2018-01-22 13:04:16:0644] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:04:16:0644] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:04:16:0644] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:04:16:0644] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:04:16:0647] driver mode start!
+[2018-01-22 13:04:16:0647] Driver Mode [1]
+[2018-01-22 13:04:16:0653] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:04:16:0653] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:04:16:0653] connecting device ... hostIP[c0a8010a], hostPort[50337], devIP[c0a80101]
+[2018-01-22 13:04:16:0802] detect mtu [9014]!
+[2018-01-22 13:04:17:0813] UDP_ReadnTimeout  [3016]!
+[2018-01-22 13:04:17:0817] Optimal PacketSize  [3044]!
+[2018-01-22 13:04:17:0883] gvsp recv thread start...
+[2018-01-22 13:06:30:0618] driver mode start!
+[2018-01-22 13:06:30:0619] Driver Mode [1]
+[2018-01-22 13:06:30:0626] disconnect device ...
+[2018-01-22 13:06:30:0626] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:06:30:0626] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:06:30:0626] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:06:30:0626] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:06:30:0629] driver mode start!
+[2018-01-22 13:06:30:0630] Driver Mode [1]
+[2018-01-22 13:06:30:0634] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:06:30:0634] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:06:30:0635] connecting device ... hostIP[c0a8010a], hostPort[60852], devIP[c0a80101]
+[2018-01-22 13:06:30:0782] detect mtu [9014]!
+[2018-01-22 13:06:31:0792] UDP_ReadnTimeout  [3016]!
+[2018-01-22 13:06:31:0796] Optimal PacketSize  [3044]!
+[2018-01-22 13:06:31:0861] gvsp recv thread start...
+[2018-01-22 13:11:45:0893] driver mode start!
+[2018-01-22 13:11:45:0893] Driver Mode [1]
+[2018-01-22 13:11:45:0899] disconnect device ...
+[2018-01-22 13:11:45:0899] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:11:45:0899] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:11:45:0899] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:11:45:0899] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:11:45:0903] driver mode start!
+[2018-01-22 13:11:45:0903] Driver Mode [1]
+[2018-01-22 13:11:45:0907] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:11:45:0907] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:11:45:0907] connecting device ... hostIP[c0a8010a], hostPort[61069], devIP[c0a80101]
+[2018-01-22 13:11:46:0053] detect mtu [9014]!
+[2018-01-22 13:11:47:0063] UDP_ReadnTimeout  [3016]!
+[2018-01-22 13:11:47:0067] Optimal PacketSize  [3044]!
+[2018-01-22 13:11:47:0131] gvsp recv thread start...
+[2018-01-22 13:12:37:0310] driver mode start!
+[2018-01-22 13:12:37:0310] Driver Mode [1]
+[2018-01-22 13:12:37:0319] disconnect device ...
+[2018-01-22 13:12:37:0319] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:12:37:0319] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:12:37:0319] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:12:37:0319] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:12:37:0324] driver mode start!
+[2018-01-22 13:12:37:0324] Driver Mode [1]
+[2018-01-22 13:12:37:0329] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:12:37:0329] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:12:37:0329] connecting device ... hostIP[c0a8010a], hostPort[51149], devIP[c0a80101]
+[2018-01-22 13:12:37:0554] detect mtu [9014]!
+[2018-01-22 13:12:38:0564] UDP_ReadnTimeout  [3016]!
+[2018-01-22 13:12:38:0568] Optimal PacketSize  [3044]!
+[2018-01-22 13:12:38:0707] gvsp recv thread start...
+[2018-01-22 13:18:59:0731] driver mode start!
+[2018-01-22 13:18:59:0731] Driver Mode [1]
+[2018-01-22 13:18:59:0739] disconnect device ...
+[2018-01-22 13:18:59:0740] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:18:59:0740] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:18:59:0740] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:18:59:0740] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:18:59:0743] driver mode start!
+[2018-01-22 13:18:59:0743] Driver Mode [1]
+[2018-01-22 13:18:59:0748] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:18:59:0748] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:18:59:0749] connecting device ... hostIP[c0a8010a], hostPort[50476], devIP[c0a80101]
+[2018-01-22 13:18:59:0890] detect mtu [9014]!
+[2018-01-22 13:19:00:0900] UDP_ReadnTimeout  [3016]!
+[2018-01-22 13:19:00:0904] Optimal PacketSize  [3044]!
+[2018-01-22 13:19:00:0964] gvsp recv thread start...
+[2018-01-22 13:20:49:0441] driver mode start!
+[2018-01-22 13:20:49:0441] Driver Mode [1]
+[2018-01-22 13:20:49:0447] disconnect device ...
+[2018-01-22 13:20:49:0447] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:20:49:0447] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:20:49:0447] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:20:49:0447] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:20:49:0451] driver mode start!
+[2018-01-22 13:20:49:0451] Driver Mode [1]
+[2018-01-22 13:20:49:0455] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:20:49:0455] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:20:49:0456] connecting device ... hostIP[c0a8010a], hostPort[53987], devIP[c0a80101]
+[2018-01-22 13:20:49:0596] detect mtu [9014]!
+[2018-01-22 13:20:50:0606] UDP_ReadnTimeout  [3016]!
+[2018-01-22 13:20:50:0610] Optimal PacketSize  [3044]!
+[2018-01-22 13:20:50:0672] gvsp recv thread start...
+[2018-01-22 13:26:22:0749] driver mode start!
+[2018-01-22 13:26:22:0749] Driver Mode [1]
+[2018-01-22 13:26:22:0755] disconnect device ...
+[2018-01-22 13:26:22:0755] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:26:22:0755] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:26:22:0755] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:26:22:0755] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:26:22:0758] driver mode start!
+[2018-01-22 13:26:22:0758] Driver Mode [1]
+[2018-01-22 13:26:22:0762] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:26:22:0762] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:26:22:0762] connecting device ... hostIP[c0a8010a], hostPort[58277], devIP[c0a80101]
+[2018-01-22 13:26:22:0898] detect mtu [9014]!
+[2018-01-22 13:26:23:0908] UDP_ReadnTimeout  [3016]!
+[2018-01-22 13:26:23:0912] Optimal PacketSize  [3044]!
+[2018-01-22 13:26:23:0975] gvsp recv thread start...
+[2018-01-22 13:31:42:0872] driver mode start!
+[2018-01-22 13:31:42:0872] Driver Mode [1]
+[2018-01-22 13:31:42:0878] disconnect device ...
+[2018-01-22 13:31:42:0878] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:31:42:0878] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:31:42:0878] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:31:42:0878] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:31:42:0881] driver mode start!
+[2018-01-22 13:31:42:0881] Driver Mode [1]
+[2018-01-22 13:31:42:0885] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:31:42:0885] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:31:42:0885] connecting device ... hostIP[c0a8010a], hostPort[55630], devIP[c0a80101]
+[2018-01-22 13:31:43:0026] detect mtu [9014]!
+[2018-01-22 13:31:44:0036] UDP_ReadnTimeout  [3016]!
+[2018-01-22 13:31:44:0040] Optimal PacketSize  [3044]!
+[2018-01-22 13:31:44:0102] gvsp recv thread start...
+[2018-01-22 13:31:58:0336] driver mode start!
+[2018-01-22 13:31:58:0336] Driver Mode [1]
+[2018-01-22 13:31:58:0342] disconnect device ...
+[2018-01-22 13:31:58:0342] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:31:58:0342] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:31:58:0342] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 13:31:58:0342] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 13:31:58:0346] driver mode start!
+[2018-01-22 13:31:58:0346] Driver Mode [1]
+[2018-01-22 13:31:58:0349] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:31:58:0350] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 13:31:58:0350] connecting device ... hostIP[c0a8010a], hostPort[51718], devIP[c0a80101]
+[2018-01-22 13:31:58:0487] detect mtu [9014]!
+[2018-01-22 13:31:59:0497] UDP_ReadnTimeout  [3016]!
+[2018-01-22 13:31:59:0501] Optimal PacketSize  [3044]!
+[2018-01-22 13:31:59:0572] gvsp recv thread start...
+[2018-01-22 15:13:59:0795] driver mode start!
+[2018-01-22 15:13:59:0795] Driver Mode [1]
+[2018-01-22 15:13:59:0802] disconnect device ...
+[2018-01-22 15:13:59:0802] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 15:13:59:0802] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 15:13:59:0802] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 15:13:59:0802] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 15:13:59:0806] driver mode start!
+[2018-01-22 15:13:59:0806] Driver Mode [1]
+[2018-01-22 15:13:59:0811] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 15:13:59:0811] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 15:13:59:0811] connecting device ... hostIP[c0a8010a], hostPort[62577], devIP[c0a80101]
+[2018-01-22 15:13:59:0953] detect mtu [9014]!
+[2018-01-22 15:14:00:0962] UDP_ReadnTimeout  [3016]!
+[2018-01-22 15:14:00:0966] Optimal PacketSize  [3044]!
+[2018-01-22 15:14:01:0030] gvsp recv thread start...
+[2018-01-22 15:17:44:0548] driver mode start!
+[2018-01-22 15:17:44:0548] Driver Mode [1]
+[2018-01-22 15:17:44:0555] disconnect device ...
+[2018-01-22 15:17:44:0555] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 15:17:44:0555] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 15:17:44:0555] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 15:17:44:0555] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 15:17:44:0559] driver mode start!
+[2018-01-22 15:17:44:0559] Driver Mode [1]
+[2018-01-22 15:17:44:0563] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 15:17:44:0564] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 15:17:44:0564] connecting device ... hostIP[c0a8010a], hostPort[52504], devIP[c0a80101]
+[2018-01-22 15:17:44:0708] detect mtu [9014]!
+[2018-01-22 15:17:45:0718] UDP_ReadnTimeout  [3016]!
+[2018-01-22 15:17:45:0722] Optimal PacketSize  [3044]!
+[2018-01-22 15:17:45:0784] gvsp recv thread start...
+[2018-01-22 15:18:47:0295] driver mode start!
+[2018-01-22 15:18:47:0295] Driver Mode [1]
+[2018-01-22 15:18:47:0303] disconnect device ...
+[2018-01-22 15:18:47:0303] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 15:18:47:0303] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 15:18:47:0303] multi sendto errror! [10049], preSend[16], actually send[-1]
+[2018-01-22 15:18:47:0303] gvcp UDP_Writen pre send len[16], IP[0], Port[0], return[-1]!
+[2018-01-22 15:18:47:0306] driver mode start!
+[2018-01-22 15:18:47:0306] Driver Mode [1]
+[2018-01-22 15:18:47:0311] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 15:18:47:0311] ReCreateSocket NewIp[0], SrcIP[c0a8010a]
+[2018-01-22 15:18:47:0311] connecting device ... hostIP[c0a8010a], hostPort[58683], devIP[c0a80101]
+[2018-01-22 15:18:47:0453] detect mtu [9014]!
+[2018-01-22 15:18:48:0462] UDP_ReadnTimeout  [3016]!
+[2018-01-22 15:18:48:0466] Optimal PacketSize  [3044]!
+[2018-01-22 15:18:48:0536] gvsp recv thread start...

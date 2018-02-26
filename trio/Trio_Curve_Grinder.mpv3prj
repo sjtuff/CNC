@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Version="1" VersionMinor="1" ProductId="400" ProductName="MC400">
+    <Environment>
+        <Software SoftwareVersion="4.2.1.13734" />
+        <Controller ControllerVersion="2.0287" ControllerFPGAVersion="0">
+            <Modules />
+        </Controller>
+    </Environment>
+    <Items>
+        <Item Type="basic" Name="ADDAX_TEST" FileName="ADDAX_TEST.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="basic" Name="AXIS_OFFSET" FileName="AXIS_OFFSET.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="textFile" Name="EC_EXTEND" FileName="EC_EXTEND.TXT" Storage="internalStorage" EncryptionCRC="0" />
+        <Item Type="basic" Name="GLOBAL_DEFS" FileName="GLOBAL_DEFS.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="basic" Name="HOMING" FileName="HOMING.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="basic" Name="INI" FileName="INI.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" RunOnProcess="21" EncryptionCRC="0" />
+        <Item Type="basic" Name="MAIN_AXIS" FileName="MAIN_AXIS.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="basic" Name="MANUAL_MODE" FileName="MANUAL_MODE.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="mcConfig" Name="MC_CONFIG" FileName="MC_CONFIG.MCC" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="basic" Name="MONITOR_IO" FileName="MONITOR_IO.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="basic" Name="MONITOR_ZERO" FileName="MONITOR_ZERO.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="basic" Name="MOV_Z_AXIS" FileName="MOV_Z_AXIS.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="basic" Name="START_UP" FileName="START_UP.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="textFile" Name="T0123" FileName="T0123.TXT" Storage="internalStorage" EncryptionCRC="0" />
+        <Item Type="textFile" Name="T0456" FileName="T0456.TXT" Storage="internalStorage" EncryptionCRC="0" />
+        <Item Type="textFile" Name="T789" FileName="T789.TXT" Storage="internalStorage" EncryptionCRC="0" />
+        <Item Type="basic" Name="TEST" FileName="TEST.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="basic" Name="THREAD_CTRL" FileName="THREAD_CTRL.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="basic" Name="THREAD_ENCODE" FileName="THREAD_ENCODE.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="basic" Name="THREAD_MOV" FileName="THREAD_MOV.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+        <Item Type="basic" Name="TXT_INSTREAM" FileName="TXT_INSTREAM.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" EncryptionCRC="0" />
+    </Items>
+</Project>

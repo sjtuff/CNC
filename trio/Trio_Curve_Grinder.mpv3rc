@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contents>
+  <Content Name="Controller">
+    <Controller>
+      <DigitalLines>
+        <Line Index="0" Direction="BiDirectional" Name="循环启动" />
+        <Line Index="1" Direction="BiDirectional" Name="循环停止" />
+        <Line Index="2" Direction="BiDirectional" Name="Z轴往复开始" />
+        <Line Index="3" Direction="BiDirectional" Name="手动开关" />
+        <Line Index="8" Direction="BiDirectional" Name="+X" />
+        <Line Index="9" Direction="BiDirectional" Name="-X" />
+        <Line Index="10" Direction="BiDirectional" Name="+Y" />
+        <Line Index="11" Direction="BiDirectional" Name="-Y" />
+        <Line Index="12" Direction="BiDirectional" Name="+U" />
+        <Line Index="13" Direction="BiDirectional" Name="-U" />
+        <Line Index="14" Direction="BiDirectional" Name="+V" />
+        <Line Index="15" Direction="BiDirectional" Name="-V" />
+        <Line Index="24" Direction="BiDirectional" Name="+Z" />
+        <Line Index="25" Direction="BiDirectional" Name="-Z" />
+        <Line Index="26" Direction="BiDirectional" Name="Z轴往复停止" />
+        <Line Index="27" Direction="BiDirectional" Name="工作模式选择按钮" />
+        <Line Index="28" Direction="BiDirectional" Name="工作模式选择按钮" />
+        <Line Index="29" Direction="BiDirectional" Name="手动增量开关" />
+        <Line Index="30" Direction="BiDirectional" Name="手动增量开关" />
+        <Line Index="31" Direction="BiDirectional" Name="手动增量开关" />
+        <Line Index="40" Direction="BiDirectional" Name="进给倍率开关" />
+        <Line Index="41" Direction="BiDirectional" Name="进给倍率开关" />
+        <Line Index="42" Direction="BiDirectional" Name="进给倍率开关" />
+        <Line Index="43" Direction="BiDirectional" Name="进给倍率开关" />
+        <Line Index="44" Direction="BiDirectional" Name="往复倍率开关" />
+        <Line Index="45" Direction="BiDirectional" Name="往复倍率开关" />
+        <Line Index="46" Direction="BiDirectional" Name="往复倍率开关" />
+        <Line Index="47" Direction="BiDirectional" Name="往复倍率开关" />
+      </DigitalLines>
+    </Controller>
+  </Content>
+</Contents>
